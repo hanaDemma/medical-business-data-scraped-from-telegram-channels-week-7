@@ -1,0 +1,20 @@
+2025-01-30 23:05:48,849:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-30 23:07:31,887:INFO:Connecting to 149.154.167.51:443/TcpFull...
+2025-01-30 23:07:34,302:INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-30 23:08:01,831:INFO:Phone migrated to 4
+2025-01-30 23:08:01,989:INFO:Reconnecting to new data center 4
+2025-01-30 23:08:02,397:INFO:Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-30 23:08:02,397:INFO:Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-30 23:08:02,398:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-30 23:08:04,388:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-30 23:08:17,516:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-30 23:08:17,516:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-30 23:08:17,527:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-30 23:08:17,660:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-30 23:08:19,446:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-30 23:08:21,841:INFO:Downloaded image: ../docs/images\photo_2025-01-30_23-08-19.jpg from message_id: 97
+2025-01-30 23:08:21,846:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-30 23:08:25,628:INFO:Downloaded image: ../docs/images\photo_2025-01-30_23-08-21.jpg from message_id: 96
+2025-01-30 23:08:25,628:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-30 23:08:29,549:INFO:Downloaded image: ../docs/images\photo_2025-01-30_23-08-25.jpg from message_id: 95
+2025-01-30 23:08:29,549:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
