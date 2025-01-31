@@ -214,3 +214,4 @@
 2025-01-31 20:33:29,150:INFO:✅ YouTube links processed.
 2025-01-31 20:33:29,150:INFO:✅ Data cleaning completed successfully.
 2025-01-31 20:33:29,482:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 20:35:53,569:INFO:✅ Table 'telegram_messages' created successfully.
