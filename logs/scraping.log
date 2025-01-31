@@ -83,3 +83,62 @@
 2025-01-31 09:40:18,605:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
 2025-01-31 09:40:18,606:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
 2025-01-31 09:40:18,762:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2025-01-31 15:16:25,468:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 15:16:25,469:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 15:16:25,729:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 15:20:16,432:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 15:20:16,432:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 15:20:16,649:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 15:20:51,689:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 15:20:51,689:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 15:20:51,938:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 15:27:10,806:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/DoctorsET_data.csv'
+2025-01-31 15:28:36,985:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../docs/all_scraped_messages.csv'
+2025-01-31 15:29:13,545:ERROR:❌ Error loading CSV file: No columns to parse from file
+2025-01-31 15:30:26,772:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 15:30:26,772:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 15:30:26,966:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 15:30:27,015:ERROR:❌ Error loading CSV file: No columns to parse from file
+2025-01-31 15:31:25,702:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 15:31:40,460:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 15:34:14,282:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 15:40:07,756:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 15:40:30,323:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 15:40:36,625:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:15:14,045:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 16:15:14,206:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:15:14,258:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 16:19:27,267:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 16:21:46,977:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 16:32:58,657:ERROR:❌ Data cleaning error: Index(['ID'], dtype='object')
+2025-01-31 16:39:28,611:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 16:39:28,611:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 16:39:28,874:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 16:39:28,941:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:39:28,964:INFO:✅ Duplicates removed from dataset.
+2025-01-31 16:39:28,964:ERROR:❌ Data cleaning error: 'Date'
+2025-01-31 16:41:49,101:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:43:46,249:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/CheMed123.csv'
+2025-01-31 16:44:49,987:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/CheMed123_data.csv'
+2025-01-31 16:45:37,047:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/DoctorsET_data.csv'
+2025-01-31 16:46:05,758:ERROR:❌ Error loading CSV file: [Errno 2] No such file or directory: '../docs/raw/DoctorsET_data.csv'
+2025-01-31 16:47:44,378:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:49:24,886:INFO:✅ Duplicates removed from dataset.
+2025-01-31 16:49:24,886:ERROR:❌ Data cleaning error: 'Date'
+2025-01-31 16:51:07,784:INFO:✅ Duplicates removed from dataset.
+2025-01-31 16:51:07,784:ERROR:❌ Data cleaning error: 'Date'
+2025-01-31 16:51:23,843:INFO:✅ Duplicates removed from dataset.
+2025-01-31 16:51:23,843:ERROR:❌ Data cleaning error: 'Date'
+2025-01-31 16:53:18,218:INFO:✅ Duplicates removed from dataset.
+2025-01-31 16:53:18,218:ERROR:❌ Data cleaning error: 'Date'
+2025-01-31 16:53:30,584:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 16:53:30,584:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 16:53:31,087:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 16:53:31,294:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 16:53:31,331:INFO:✅ Duplicates removed.
+2025-01-31 16:53:31,354:INFO:✅ Date column formatted.
+2025-01-31 16:53:31,356:INFO:✅ Missing values filled.
+2025-01-31 16:53:31,362:INFO:✅ Text column cleaned.
+2025-01-31 16:53:31,385:INFO:✅ Emojis processed.
+2025-01-31 16:53:31,393:INFO:✅ YouTube links processed.
+2025-01-31 16:53:31,397:INFO:✅ Data cleaning completed successfully.
