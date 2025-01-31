@@ -46,7 +46,6 @@ def create_table(engine):
     CREATE TABLE IF NOT EXISTS telegram_messages (
         id SERIAL PRIMARY KEY,
         channel_title TEXT,
-        channel_username TEXT,
         message_id BIGINT UNIQUE,
         message TEXT,
         message_date TIMESTAMP,
@@ -72,8 +71,8 @@ def insert_data(engine, cleaned_df):
 
         insert_query = """
         INSERT INTO telegram_messages 
-        (channel_title, channel_username, message_id, message, message_date, media_path, emoji_used, youtube_links) 
-        VALUES (:channel_title, :channel_username, :message_id, :message, :message_date, :media_path, :emoji_used, :youtube_links)
+        (channel_title,  message_id, message, message_date, media_path, emoji_used, youtube_links) 
+        VALUES (:channel_title, :message_id, :message, :message_date, :media_path, :emoji_used, :youtube_links)
         ON CONFLICT (message_id) DO NOTHING;
         """
 
@@ -86,7 +85,6 @@ def insert_data(engine, cleaned_df):
                     text(insert_query),
                     {
                         "channel_title": row["channel_title"],
-                        "channel_username": row["channel_username"],
                         "message_id": row["message_id"],
                         "message": row["message"],
                         "message_date": row["message_date"],  # ✅ No NaT values

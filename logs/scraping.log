@@ -215,3 +215,125 @@
 2025-01-31 20:33:29,150:INFO:✅ Data cleaning completed successfully.
 2025-01-31 20:33:29,482:INFO:✅ Successfully connected to the PostgreSQL database.
 2025-01-31 20:35:53,569:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 20:45:38,579:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:45:38,579:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:45:38,775:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:45:38,817:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:45:38,828:INFO:✅ Duplicates removed.
+2025-01-31 20:45:38,830:INFO:✅ Date column formatted.
+2025-01-31 20:45:38,831:INFO:✅ Missing values filled.
+2025-01-31 20:45:38,831:INFO:✅ Text column cleaned.
+2025-01-31 20:45:38,835:INFO:✅ Emojis processed.
+2025-01-31 20:45:38,836:INFO:✅ YouTube links processed.
+2025-01-31 20:45:38,836:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:45:39,050:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 20:45:39,056:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 20:54:38,579:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:54:38,579:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:54:38,788:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:54:38,876:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:54:38,891:INFO:✅ Duplicates removed.
+2025-01-31 20:54:38,895:INFO:✅ Date column formatted.
+2025-01-31 20:54:38,895:INFO:✅ Missing values filled.
+2025-01-31 20:54:38,896:INFO:✅ Text column cleaned.
+2025-01-31 20:54:38,902:INFO:✅ Emojis processed.
+2025-01-31 20:54:38,903:INFO:✅ YouTube links processed.
+2025-01-31 20:54:38,903:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:54:39,105:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 20:54:39,114:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 20:56:40,921:INFO:Inserting: 864 - 2023-12-18 17:04:02
+2025-01-31 20:56:40,921:ERROR:❌ Error inserting data: 'channel_username'
+2025-01-31 20:56:57,522:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:56:57,523:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:56:57,799:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:56:57,854:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:56:57,902:INFO:✅ Duplicates removed.
+2025-01-31 20:56:57,906:INFO:✅ Date column formatted.
+2025-01-31 20:56:57,906:INFO:✅ Missing values filled.
+2025-01-31 20:56:57,907:INFO:✅ Text column cleaned.
+2025-01-31 20:56:57,912:INFO:✅ Emojis processed.
+2025-01-31 20:56:57,914:INFO:✅ YouTube links processed.
+2025-01-31 20:56:57,914:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:56:58,213:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 20:56:58,222:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 20:56:58,281:INFO:Inserting: 864 - 2023-12-18 17:04:02
+2025-01-31 20:56:58,281:ERROR:❌ Error inserting data: 'channel_username'
+2025-01-31 21:00:27,642:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 21:00:27,643:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 21:00:27,843:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 21:00:27,886:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 21:00:27,896:INFO:✅ Duplicates removed.
+2025-01-31 21:00:27,898:INFO:✅ Date column formatted.
+2025-01-31 21:00:27,899:INFO:✅ Missing values filled.
+2025-01-31 21:00:27,899:INFO:✅ Text column cleaned.
+2025-01-31 21:00:27,903:INFO:✅ Emojis processed.
+2025-01-31 21:00:27,904:INFO:✅ YouTube links processed.
+2025-01-31 21:00:27,904:INFO:✅ Data cleaning completed successfully.
+2025-01-31 21:00:28,116:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 21:00:28,122:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 21:00:28,170:INFO:Inserting: 864 - 2023-12-18 17:04:02
+2025-01-31 21:00:28,170:ERROR:❌ Error inserting data: 'channel_username'
+2025-01-31 21:01:49,611:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 21:01:49,611:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 21:01:49,821:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 21:01:49,864:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 21:01:49,873:INFO:✅ Duplicates removed.
+2025-01-31 21:01:49,873:INFO:✅ Date column formatted.
+2025-01-31 21:01:49,878:INFO:✅ Missing values filled.
+2025-01-31 21:01:49,878:INFO:✅ Text column cleaned.
+2025-01-31 21:01:49,878:INFO:✅ Emojis processed.
+2025-01-31 21:01:49,878:INFO:✅ YouTube links processed.
+2025-01-31 21:01:49,878:INFO:✅ Data cleaning completed successfully.
+2025-01-31 21:01:50,083:INFO:✅ Successfully connected to the PostgreSQL database.
+2025-01-31 21:01:50,089:INFO:✅ Table 'telegram_messages' created successfully.
+2025-01-31 21:01:50,137:INFO:Inserting: 864 - 2023-12-18 17:04:02
+2025-01-31 21:01:50,140:INFO:Inserting: 863 - 2023-11-03 16:14:39
+2025-01-31 21:01:50,142:INFO:Inserting: 862 - 2023-10-02 16:37:39
+2025-01-31 21:01:50,143:INFO:Inserting: 861 - 2023-09-16 07:54:32
+2025-01-31 21:01:50,147:INFO:Inserting: 860 - 2023-09-01 16:16:15
+2025-01-31 21:01:50,149:INFO:Inserting: 859 - 2023-08-29 17:20:05
+2025-01-31 21:01:50,151:INFO:Inserting: 848 - 2022-08-02 17:42:08
+2025-01-31 21:01:50,153:INFO:Inserting: 847 - 2022-06-12 17:15:47
+2025-01-31 21:01:50,155:INFO:Inserting: 846 - 2022-05-31 17:51:13
+2025-01-31 21:01:50,156:INFO:Inserting: 845 - 2022-05-20 18:04:53
+2025-01-31 21:01:50,157:INFO:Inserting: 97 - 2023-02-10 12:23:06
+2025-01-31 21:01:50,159:INFO:Inserting: 96 - 2023-02-02 08:58:52
+2025-01-31 21:01:50,160:INFO:Inserting: 95 - 2023-02-01 08:59:37
+2025-01-31 21:01:50,162:INFO:Inserting: 94 - 2023-01-31 09:19:53
+2025-01-31 21:01:50,163:INFO:Inserting: 93 - 2023-01-30 09:45:25
+2025-01-31 21:01:50,163:INFO:Inserting: 92 - 2023-01-27 07:18:40
+2025-01-31 21:01:50,164:INFO:Inserting: 91 - 2023-01-26 18:27:53
+2025-01-31 21:01:50,165:INFO:Inserting: 90 - 2023-01-23 10:39:20
+2025-01-31 21:01:50,166:INFO:Inserting: 89 - 2023-01-17 19:10:57
+2025-01-31 21:01:50,167:INFO:Inserting: 88 - 2023-01-17 08:43:12
+2025-01-31 21:01:50,168:INFO:Inserting: 15200 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,169:INFO:Inserting: 15199 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,169:INFO:Inserting: 15198 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,170:INFO:Inserting: 15197 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,171:INFO:Inserting: 15196 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,172:INFO:Inserting: 15195 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,173:INFO:Inserting: 15194 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,174:INFO:Inserting: 15193 - 2025-01-31 05:30:28
+2025-01-31 21:01:50,174:INFO:Inserting: 15192 - 2025-01-30 14:11:12
+2025-01-31 21:01:50,174:INFO:Inserting: 15191 - 2025-01-30 14:11:11
+2025-01-31 21:01:50,174:INFO:Inserting: 1245 - 2025-01-22 09:50:46
+2025-01-31 21:01:50,174:INFO:Inserting: 1243 - 2025-01-07 03:35:26
+2025-01-31 21:01:50,174:INFO:Inserting: 1242 - 2024-12-16 07:08:46
+2025-01-31 21:01:50,174:INFO:Inserting: 1241 - 2024-12-13 06:49:28
+2025-01-31 21:01:50,174:INFO:Inserting: 1240 - 2024-12-12 03:02:57
+2025-01-31 21:01:50,174:INFO:Inserting: 1239 - 2024-12-11 15:11:40
+2025-01-31 21:01:50,174:INFO:Inserting: 1235 - 2024-12-10 09:39:23
+2025-01-31 21:01:50,174:INFO:Inserting: 1234 - 2024-12-08 08:17:20
+2025-01-31 21:01:50,174:INFO:Inserting: 1233 - 2024-12-07 13:42:13
+2025-01-31 21:01:50,174:INFO:Inserting: 1231 - 2024-12-03 10:26:03
+2025-01-31 21:01:50,174:INFO:Inserting: 2603 - 2025-01-30 12:42:18
+2025-01-31 21:01:50,174:INFO:Inserting: 2602 - 2025-01-30 12:17:14
+2025-01-31 21:01:50,174:INFO:Inserting: 2600 - 2025-01-29 17:00:02
+2025-01-31 21:01:50,187:INFO:Inserting: 2598 - 2025-01-29 12:34:11
+2025-01-31 21:01:50,188:INFO:Inserting: 2597 - 2025-01-27 11:01:51
+2025-01-31 21:01:50,188:INFO:Inserting: 2595 - 2025-01-26 13:17:40
+2025-01-31 21:01:50,189:INFO:Inserting: 2593 - 2025-01-24 14:09:14
+2025-01-31 21:01:50,190:INFO:Inserting: 2591 - 2025-01-23 07:31:53
+2025-01-31 21:01:50,191:INFO:Inserting: 2590 - 2025-01-22 05:45:11
+2025-01-31 21:01:50,192:INFO:Inserting: 2589 - 2025-01-21 08:20:09
+2025-01-31 21:01:50,196:INFO:✅ 50 records inserted into PostgreSQL database.
