@@ -142,3 +142,75 @@
 2025-01-31 16:53:31,385:INFO:✅ Emojis processed.
 2025-01-31 16:53:31,393:INFO:✅ YouTube links processed.
 2025-01-31 16:53:31,397:INFO:✅ Data cleaning completed successfully.
+2025-01-31 17:43:05,901:INFO:✅ Cleaned data saved to '../docs/cleaned_data.csv'.
+2025-01-31 17:58:57,494:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 18:09:34,420:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 18:36:06,008:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 18:36:42,729:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 20:13:43,346:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 20:16:12,376:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 20:16:49,052:ERROR:❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-01-31 20:18:50,004:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:18:50,005:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:18:50,255:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:18:50,308:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:18:50,318:INFO:✅ Duplicates removed.
+2025-01-31 20:18:50,320:INFO:✅ Date column formatted.
+2025-01-31 20:18:50,321:INFO:✅ Missing values filled.
+2025-01-31 20:18:50,321:INFO:✅ Text column cleaned.
+2025-01-31 20:18:50,325:INFO:✅ Emojis processed.
+2025-01-31 20:18:50,326:INFO:✅ YouTube links processed.
+2025-01-31 20:18:50,326:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:18:50,541:ERROR:❌ Database connection failed: No module named 'psycopg2'
+2025-01-31 20:19:30,008:ERROR:❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:20:58,742:ERROR:❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:21:07,589:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:21:07,589:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:21:07,800:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:21:07,846:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:21:07,856:INFO:✅ Duplicates removed.
+2025-01-31 20:21:07,859:INFO:✅ Date column formatted.
+2025-01-31 20:21:07,860:INFO:✅ Missing values filled.
+2025-01-31 20:21:07,860:INFO:✅ Text column cleaned.
+2025-01-31 20:21:07,864:INFO:✅ Emojis processed.
+2025-01-31 20:21:07,865:INFO:✅ YouTube links processed.
+2025-01-31 20:21:07,866:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:21:08,049:ERROR:❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgress"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:26:54,767:ERROR:❌ Database connection failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgress"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:31:24,214:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:31:24,214:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:31:24,426:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:31:24,473:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:31:24,485:INFO:✅ Duplicates removed.
+2025-01-31 20:31:24,488:INFO:✅ Date column formatted.
+2025-01-31 20:31:24,489:INFO:✅ Missing values filled.
+2025-01-31 20:31:24,490:INFO:✅ Text column cleaned.
+2025-01-31 20:31:24,494:INFO:✅ Emojis processed.
+2025-01-31 20:31:24,495:INFO:✅ YouTube links processed.
+2025-01-31 20:31:24,495:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:31:27,382:ERROR:❌ Database connection failed: (psycopg2.OperationalError) could not translate host name "custom-postgres" to address: No such host is known. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:32:49,951:ERROR:❌ Database connection failed: (psycopg2.OperationalError) could not translate host name "custom-postgres" to address: No such host is known. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-01-31 20:33:28,719:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 20:33:28,720:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 20:33:29,053:ERROR:An error occurred: Your API ID or Hash cannot be empty or None. Refer to telethon.rtfd.io for more information.
+2025-01-31 20:33:29,120:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-01-31 20:33:29,135:INFO:✅ Duplicates removed.
+2025-01-31 20:33:29,140:INFO:✅ Date column formatted.
+2025-01-31 20:33:29,141:INFO:✅ Missing values filled.
+2025-01-31 20:33:29,142:INFO:✅ Text column cleaned.
+2025-01-31 20:33:29,148:INFO:✅ Emojis processed.
+2025-01-31 20:33:29,150:INFO:✅ YouTube links processed.
+2025-01-31 20:33:29,150:INFO:✅ Data cleaning completed successfully.
+2025-01-31 20:33:29,482:INFO:✅ Successfully connected to the PostgreSQL database.
