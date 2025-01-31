@@ -1,0 +1,85 @@
+2025-01-31 09:35:15,265:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 09:35:15,265:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 09:35:15,646:INFO:Connecting to 91.108.56.151:443/TcpFull...
+2025-01-31 09:35:15,888:INFO:Connection to 91.108.56.151:443/TcpFull complete!
+2025-01-31 09:35:17,628:INFO:Disconnecting from 91.108.56.151:443/TcpFull...
+2025-01-31 09:35:17,629:INFO:Disconnection from 91.108.56.151:443/TcpFull complete!
+2025-01-31 09:35:17,682:ERROR:An error occurred: Invalid channel object. Make sure to pass the right types, for instance making sure that the request is designed for channels or otherwise look for a different one more suited (caused by GetHistoryRequest)
+2025-01-31 09:39:18,215:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-01-31 09:39:18,215:INFO:cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-01-31 09:39:18,789:INFO:Connecting to 149.154.167.51:443/TcpFull...
+2025-01-31 09:39:21,400:INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-31 09:39:29,638:INFO:Phone migrated to 4
+2025-01-31 09:39:29,753:INFO:Reconnecting to new data center 4
+2025-01-31 09:39:29,869:INFO:Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-31 09:39:29,869:INFO:Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-31 09:39:29,869:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 09:39:31,660:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:39:50,555:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 09:39:50,555:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:39:50,574:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 09:39:50,675:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:39:51,705:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:52,139:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-51.jpg from message_id: 97
+2025-01-31 09:39:52,211:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:52,927:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-52.jpg from message_id: 96
+2025-01-31 09:39:52,929:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:53,373:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-52 (1).jpg from message_id: 95
+2025-01-31 09:39:53,382:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:53,902:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-53.jpg from message_id: 94
+2025-01-31 09:39:53,972:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:54,625:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-53 (1).jpg from message_id: 93
+2025-01-31 09:39:54,695:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:55,886:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-54.jpg from message_id: 92
+2025-01-31 09:39:55,886:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:56,456:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-55.jpg from message_id: 91
+2025-01-31 09:39:56,456:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:57,766:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-56.jpg from message_id: 90
+2025-01-31 09:39:57,766:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:39:58,568:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-39-57.jpg from message_id: 88
+2025-01-31 09:39:58,568:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 09:39:58,568:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:39:58,594:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 09:39:58,696:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:00,055:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:00,970:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-00.jpg from message_id: 15200
+2025-01-31 09:40:00,972:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:01,300:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-00 (1).jpg from message_id: 15199
+2025-01-31 09:40:01,300:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:01,550:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-01.jpg from message_id: 15198
+2025-01-31 09:40:01,552:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:01,775:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-01 (1).jpg from message_id: 15197
+2025-01-31 09:40:01,842:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:02,246:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-01 (2).jpg from message_id: 15196
+2025-01-31 09:40:02,246:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:03,027:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-02.jpg from message_id: 15195
+2025-01-31 09:40:03,028:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:03,477:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-03.jpg from message_id: 15194
+2025-01-31 09:40:03,478:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:04,385:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-03 (1).jpg from message_id: 15193
+2025-01-31 09:40:04,453:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:06,524:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-04.jpg from message_id: 15192
+2025-01-31 09:40:06,527:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 09:40:14,807:INFO:Downloaded image: ../docs/images\photo_2025-01-31_09-40-06.jpg from message_id: 15191
+2025-01-31 09:40:14,808:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 09:40:14,811:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:14,871:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 09:40:14,973:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:16,743:INFO:Ignored message_id 1247 with less than two lines.
+2025-01-31 09:40:16,744:INFO:Ignored message_id 1246 with less than two lines.
+2025-01-31 09:40:16,744:INFO:Ignored message_id 1244 with less than two lines.
+2025-01-31 09:40:16,748:INFO:Ignored message_id 1238 with less than two lines.
+2025-01-31 09:40:16,748:INFO:Ignored message_id 1237 with less than two lines.
+2025-01-31 09:40:16,748:INFO:Ignored message_id 1236 with less than two lines.
+2025-01-31 09:40:16,749:INFO:Ignored message_id 1232 with less than two lines.
+2025-01-31 09:40:16,750:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 09:40:16,751:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:16,839:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-01-31 09:40:16,940:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:18,602:INFO:Ignored message_id 2601 with less than two lines.
+2025-01-31 09:40:18,602:INFO:Ignored message_id 2596 with less than two lines.
+2025-01-31 09:40:18,603:INFO:Ignored message_id 2594 with less than two lines.
+2025-01-31 09:40:18,603:INFO:Ignored message_id 2592 with less than two lines.
+2025-01-31 09:40:18,605:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-01-31 09:40:18,606:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-01-31 09:40:18,762:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
