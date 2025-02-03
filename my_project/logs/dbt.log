@@ -1768,3 +1768,365 @@ drop view if exists "telegramData"."public"."my_second_dbt_model__dbt_backup" ca
 [0m00:08:07.759717 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E2382C4A10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E238032890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E2380335D0>]}
 [0m00:08:07.761740 [debug] [MainThread]: Flushing usage events
 [0m00:08:08.623346 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:27:27.158501 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512C91D890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512C91E7D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512C91DCD0>]}
+
+
+============================== 00:27:27.169818 | b9f984cd-993b-41d2-9fb9-30ef75834ee9 ==============================
+[0m00:27:27.169818 [info ] [MainThread]: Running with dbt=1.9.2
+[0m00:27:27.171968 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'D:\\week-7\\medical-business-data-scraped-from-telegram-channels-week-7\\my_project\\logs', 'debug': 'False', 'profiles_dir': 'C:\\Users\\hanad\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt docs generate', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m00:27:27.433385 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512C977550>]}
+[0m00:27:27.504270 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000251299F1750>]}
+[0m00:27:27.507481 [info ] [MainThread]: Registered adapter: postgres=1.9.0
+[0m00:27:27.661645 [debug] [MainThread]: checksum: 12b12750b70de726cfd89136b8e24afc3f3e77597a97bff40ab7e5f9b39d5e18, vars: {}, profile: , target: , version: 1.9.2
+[0m00:27:27.957718 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 3 files changed.
+[0m00:27:27.957718 [debug] [MainThread]: Partial parsing: updated file: my_project://models\example\schema.yml
+[0m00:27:27.957718 [debug] [MainThread]: Partial parsing: updated file: my_project://models\example\my_first_dbt_model.sql
+[0m00:27:27.957718 [debug] [MainThread]: Partial parsing: updated file: my_project://models\example\my_second_dbt_model.sql
+[0m00:27:28.365196 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512CF4A190>]}
+[0m00:27:28.532175 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512E41BA10>]}
+[0m00:27:28.532175 [info ] [MainThread]: Found 4 models, 1 seed, 4 data tests, 1 source, 431 macros
+[0m00:27:28.532175 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512E3EE0D0>]}
+[0m00:27:28.532175 [info ] [MainThread]: 
+[0m00:27:28.532175 [info ] [MainThread]: Concurrency: 4 threads (target='dev')
+[0m00:27:28.548225 [info ] [MainThread]: 
+[0m00:27:28.550417 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m00:27:28.556463 [debug] [ThreadPool]: Acquiring new postgres connection 'list_telegramData_public'
+[0m00:27:28.614571 [debug] [ThreadPool]: Using postgres connection "list_telegramData_public"
+[0m00:27:28.614571 [debug] [ThreadPool]: On list_telegramData_public: BEGIN
+[0m00:27:28.614571 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m00:27:28.626578 [debug] [ThreadPool]: SQL status: BEGIN in 0.022 seconds
+[0m00:27:28.626578 [debug] [ThreadPool]: Using postgres connection "list_telegramData_public"
+[0m00:27:28.626578 [debug] [ThreadPool]: On list_telegramData_public: /* {"app": "dbt", "dbt_version": "1.9.2", "profile_name": "my_project", "target_name": "dev", "connection_name": "list_telegramData_public"} */
+select
+      'telegramData' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'telegramData' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+    union all
+    select
+      'telegramData' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public'
+  
+[0m00:27:28.642218 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.004 seconds
+[0m00:27:28.642218 [debug] [ThreadPool]: On list_telegramData_public: ROLLBACK
+[0m00:27:28.642218 [debug] [ThreadPool]: On list_telegramData_public: Close
+[0m00:27:28.649729 [debug] [MainThread]: Using postgres connection "master"
+[0m00:27:28.649729 [debug] [MainThread]: On master: BEGIN
+[0m00:27:28.649729 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m00:27:28.658874 [debug] [MainThread]: SQL status: BEGIN in 0.019 seconds
+[0m00:27:28.673981 [debug] [MainThread]: Using postgres connection "master"
+[0m00:27:28.673981 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.9.2", "profile_name": "my_project", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v', 'm')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+[0m00:27:28.673981 [debug] [MainThread]: SQL status: SELECT 3 in 0.004 seconds
+[0m00:27:28.673981 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'b9f984cd-993b-41d2-9fb9-30ef75834ee9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512E16D890>]}
+[0m00:27:28.673981 [debug] [MainThread]: On master: ROLLBACK
+[0m00:27:28.682989 [debug] [MainThread]: On master: Close
+[0m00:27:28.690145 [debug] [Thread-1 (]: Began running node model.my_project.my_first_dbt_model
+[0m00:27:28.690650 [debug] [Thread-2 (]: Began running node seed.my_project.all_scraped_messages
+[0m00:27:28.690650 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.my_project.my_first_dbt_model'
+[0m00:27:28.690650 [debug] [Thread-2 (]: Acquiring new postgres connection 'seed.my_project.all_scraped_messages'
+[0m00:27:28.690650 [debug] [Thread-1 (]: Began compiling node model.my_project.my_first_dbt_model
+[0m00:27:28.690650 [debug] [Thread-2 (]: Began compiling node seed.my_project.all_scraped_messages
+[0m00:27:28.690650 [debug] [Thread-1 (]: Writing injected SQL for node "model.my_project.my_first_dbt_model"
+[0m00:27:28.690650 [debug] [Thread-2 (]: Began executing node seed.my_project.all_scraped_messages
+[0m00:27:28.690650 [debug] [Thread-1 (]: Began executing node model.my_project.my_first_dbt_model
+[0m00:27:28.690650 [debug] [Thread-2 (]: Finished running node seed.my_project.all_scraped_messages
+[0m00:27:28.690650 [debug] [Thread-1 (]: Finished running node model.my_project.my_first_dbt_model
+[0m00:27:28.705800 [debug] [Thread-4 (]: Began running node model.my_project.final_messages
+[0m00:27:28.705800 [debug] [Thread-1 (]: Began running node model.my_project.load_scraped_data
+[0m00:27:28.707259 [debug] [Thread-4 (]: Acquiring new postgres connection 'model.my_project.final_messages'
+[0m00:27:28.707259 [debug] [Thread-4 (]: Began compiling node model.my_project.final_messages
+[0m00:27:28.707259 [debug] [Thread-3 (]: Began running node test.my_project.not_null_my_first_dbt_model_id.5fb22c2710
+[0m00:27:28.707259 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.my_project.my_first_dbt_model, now model.my_project.load_scraped_data)
+[0m00:27:28.707259 [debug] [Thread-2 (]: Began running node model.my_project.my_second_dbt_model
+[0m00:27:28.707259 [debug] [Thread-4 (]: Writing injected SQL for node "model.my_project.final_messages"
+[0m00:27:28.707259 [debug] [Thread-3 (]: Acquiring new postgres connection 'test.my_project.not_null_my_first_dbt_model_id.5fb22c2710'
+[0m00:27:28.707259 [debug] [Thread-1 (]: Began compiling node model.my_project.load_scraped_data
+[0m00:27:28.707259 [debug] [Thread-2 (]: Re-using an available connection from the pool (formerly seed.my_project.all_scraped_messages, now model.my_project.my_second_dbt_model)
+[0m00:27:28.707259 [debug] [Thread-4 (]: Began executing node model.my_project.final_messages
+[0m00:27:28.707259 [debug] [Thread-3 (]: Began compiling node test.my_project.not_null_my_first_dbt_model_id.5fb22c2710
+[0m00:27:28.707259 [debug] [Thread-1 (]: Writing injected SQL for node "model.my_project.load_scraped_data"
+[0m00:27:28.707259 [debug] [Thread-2 (]: Began compiling node model.my_project.my_second_dbt_model
+[0m00:27:28.707259 [debug] [Thread-4 (]: Finished running node model.my_project.final_messages
+[0m00:27:28.722398 [debug] [Thread-3 (]: Writing injected SQL for node "test.my_project.not_null_my_first_dbt_model_id.5fb22c2710"
+[0m00:27:28.722398 [debug] [Thread-2 (]: Writing injected SQL for node "model.my_project.my_second_dbt_model"
+[0m00:27:28.722398 [debug] [Thread-1 (]: Began executing node model.my_project.load_scraped_data
+[0m00:27:28.722398 [debug] [Thread-4 (]: Began running node test.my_project.unique_my_first_dbt_model_id.16e066b321
+[0m00:27:28.722398 [debug] [Thread-3 (]: Began executing node test.my_project.not_null_my_first_dbt_model_id.5fb22c2710
+[0m00:27:28.722398 [debug] [Thread-1 (]: Finished running node model.my_project.load_scraped_data
+[0m00:27:28.722398 [debug] [Thread-2 (]: Began executing node model.my_project.my_second_dbt_model
+[0m00:27:28.722398 [debug] [Thread-4 (]: Re-using an available connection from the pool (formerly model.my_project.final_messages, now test.my_project.unique_my_first_dbt_model_id.16e066b321)
+[0m00:27:28.722398 [debug] [Thread-3 (]: Finished running node test.my_project.not_null_my_first_dbt_model_id.5fb22c2710
+[0m00:27:28.722398 [debug] [Thread-2 (]: Finished running node model.my_project.my_second_dbt_model
+[0m00:27:28.722398 [debug] [Thread-4 (]: Began compiling node test.my_project.unique_my_first_dbt_model_id.16e066b321
+[0m00:27:28.737731 [debug] [Thread-1 (]: Began running node test.my_project.not_null_my_second_dbt_model_id.151b76d778
+[0m00:27:28.737731 [debug] [Thread-3 (]: Began running node test.my_project.unique_my_second_dbt_model_id.57a0f8c493
+[0m00:27:28.737731 [debug] [Thread-4 (]: Writing injected SQL for node "test.my_project.unique_my_first_dbt_model_id.16e066b321"
+[0m00:27:28.737731 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.my_project.load_scraped_data, now test.my_project.not_null_my_second_dbt_model_id.151b76d778)
+[0m00:27:28.737731 [debug] [Thread-3 (]: Re-using an available connection from the pool (formerly test.my_project.not_null_my_first_dbt_model_id.5fb22c2710, now test.my_project.unique_my_second_dbt_model_id.57a0f8c493)
+[0m00:27:28.737731 [debug] [Thread-1 (]: Began compiling node test.my_project.not_null_my_second_dbt_model_id.151b76d778
+[0m00:27:28.746014 [debug] [Thread-3 (]: Began compiling node test.my_project.unique_my_second_dbt_model_id.57a0f8c493
+[0m00:27:28.749127 [debug] [Thread-1 (]: Writing injected SQL for node "test.my_project.not_null_my_second_dbt_model_id.151b76d778"
+[0m00:27:28.752331 [debug] [Thread-3 (]: Writing injected SQL for node "test.my_project.unique_my_second_dbt_model_id.57a0f8c493"
+[0m00:27:28.802445 [debug] [Thread-4 (]: Began executing node test.my_project.unique_my_first_dbt_model_id.16e066b321
+[0m00:27:28.817474 [debug] [Thread-1 (]: Began executing node test.my_project.not_null_my_second_dbt_model_id.151b76d778
+[0m00:27:28.817474 [debug] [Thread-3 (]: Began executing node test.my_project.unique_my_second_dbt_model_id.57a0f8c493
+[0m00:27:28.817474 [debug] [Thread-4 (]: Finished running node test.my_project.unique_my_first_dbt_model_id.16e066b321
+[0m00:27:28.817474 [debug] [Thread-1 (]: Finished running node test.my_project.not_null_my_second_dbt_model_id.151b76d778
+[0m00:27:28.817474 [debug] [Thread-3 (]: Finished running node test.my_project.unique_my_second_dbt_model_id.57a0f8c493
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'list_telegramData_public' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'test.my_project.not_null_my_second_dbt_model_id.151b76d778' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'model.my_project.my_second_dbt_model' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'test.my_project.unique_my_first_dbt_model_id.16e066b321' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Connection 'test.my_project.unique_my_second_dbt_model_id.57a0f8c493' was properly closed.
+[0m00:27:28.834204 [debug] [MainThread]: Command end result
+[0m00:27:28.944144 [debug] [MainThread]: Wrote artifact WritableManifest to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\manifest.json
+[0m00:27:28.944144 [debug] [MainThread]: Wrote artifact SemanticManifest to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\semantic_manifest.json
+[0m00:27:28.944144 [debug] [MainThread]: Wrote artifact RunExecutionResult to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\run_results.json
+[0m00:27:30.082046 [debug] [MainThread]: Acquiring new postgres connection 'generate_catalog'
+[0m00:27:30.082046 [info ] [MainThread]: Building catalog
+[0m00:27:30.138222 [debug] [ThreadPool]: Acquiring new postgres connection 'telegramData.information_schema'
+[0m00:27:30.150099 [debug] [ThreadPool]: Using postgres connection "telegramData.information_schema"
+[0m00:27:30.153155 [debug] [ThreadPool]: On telegramData.information_schema: BEGIN
+[0m00:27:30.153670 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m00:27:30.169755 [debug] [ThreadPool]: SQL status: BEGIN in 0.022 seconds
+[0m00:27:30.169755 [debug] [ThreadPool]: Using postgres connection "telegramData.information_schema"
+[0m00:27:30.169755 [debug] [ThreadPool]: On telegramData.information_schema: /* {"app": "dbt", "dbt_version": "1.9.2", "profile_name": "my_project", "target_name": "dev", "connection_name": "telegramData.information_schema"} */
+
+    
+    
+
+    select
+        'telegramData' as table_database,
+        sch.nspname as table_schema,
+        tbl.relname as table_name,
+        case tbl.relkind
+            when 'v' then 'VIEW'
+            when 'm' then 'MATERIALIZED VIEW'
+            else 'BASE TABLE'
+        end as table_type,
+        tbl_desc.description as table_comment,
+        col.attname as column_name,
+        col.attnum as column_index,
+        pg_catalog.format_type(col.atttypid, col.atttypmod) as column_type,
+        col_desc.description as column_comment,
+        pg_get_userbyid(tbl.relowner) as table_owner
+
+    from pg_catalog.pg_namespace sch
+    join pg_catalog.pg_class tbl on tbl.relnamespace = sch.oid
+    join pg_catalog.pg_attribute col on col.attrelid = tbl.oid
+    left outer join pg_catalog.pg_description tbl_desc on (tbl_desc.objoid = tbl.oid and tbl_desc.objsubid = 0)
+    left outer join pg_catalog.pg_description col_desc on (col_desc.objoid = tbl.oid and col_desc.objsubid = col.attnum)
+    where ((upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('all_scraped_messages')) or (upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('final_messages')) or (upper(sch.nspname) = upper('raw') and
+           upper(tbl.relname) = upper('all_scraped_messages')) or (upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('my_second_dbt_model')) or (upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('load_scraped_data')) or (upper(sch.nspname) = upper('public') and
+           upper(tbl.relname) = upper('my_first_dbt_model')))
+      and not pg_is_other_temp_schema(sch.oid) -- not a temporary schema belonging to another session
+      and tbl.relpersistence in ('p', 'u') -- [p]ermanent table or [u]nlogged table. Exclude [t]emporary tables
+      and tbl.relkind in ('r', 'v', 'f', 'p', 'm') -- o[r]dinary table, [v]iew, [f]oreign table, [p]artitioned table, [m]aterialized view. Other values are [i]ndex, [S]equence, [c]omposite type, [t]OAST table
+      and col.attnum > 0 -- negative numbers are used for system columns such as oid
+      and not col.attisdropped -- column as not been dropped
+
+    order by
+        sch.nspname,
+        tbl.relname,
+        col.attnum
+[0m00:27:30.263832 [debug] [ThreadPool]: SQL status: SELECT 17 in 0.086 seconds
+[0m00:27:30.279470 [debug] [ThreadPool]: On telegramData.information_schema: ROLLBACK
+[0m00:27:30.296753 [debug] [ThreadPool]: On telegramData.information_schema: Close
+[0m00:27:30.326865 [debug] [MainThread]: Wrote artifact CatalogArtifact to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\catalog.json
+[0m00:27:30.373752 [debug] [MainThread]: Wrote artifact WritableManifest to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\manifest.json
+[0m00:27:30.373752 [debug] [MainThread]: Wrote artifact SemanticManifest to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\semantic_manifest.json
+[0m00:27:30.373752 [info ] [MainThread]: Catalog written to D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\my_project\target\catalog.json
+[0m00:27:30.373752 [debug] [MainThread]: Command `dbt docs generate` succeeded at 00:27:30.373752 after 3.37 seconds
+[0m00:27:30.373752 [debug] [MainThread]: Connection 'generate_catalog' was properly closed.
+[0m00:27:30.373752 [debug] [MainThread]: Connection 'telegramData.information_schema' was properly closed.
+[0m00:27:30.373752 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512C9C6110>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025126402910>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002512B970750>]}
+[0m00:27:30.373752 [debug] [MainThread]: Flushing usage events
+[0m00:27:31.413635 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:30:40.420289 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C146F150>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C1641B90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C1643610>]}
+
+
+============================== 00:30:40.420289 | 4b0b2707-3d71-42da-a38e-813d21122817 ==============================
+[0m00:30:40.420289 [info ] [MainThread]: Running with dbt=1.9.2
+[0m00:30:40.420289 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\hanad\\.dbt', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'D:\\week-7\\medical-business-data-scraped-from-telegram-channels-week-7\\my_project\\logs', 'version_check': 'True', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'introspect': 'True', 'invocation_command': 'dbt docs serve', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m00:30:40.665008 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '4b0b2707-3d71-42da-a38e-813d21122817', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C19B5C10>]}
+[0m00:30:40.759993 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '4b0b2707-3d71-42da-a38e-813d21122817', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1BE720F10>]}
+[0m00:36:46.229142 [error] [MainThread]: Encountered an error:
+
+[0m00:36:46.389157 [error] [MainThread]: Traceback (most recent call last):
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 153, in wrapper
+    result, success = func(*args, **kwargs)
+                      ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 103, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 235, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 264, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 311, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\main.py", line 301, in docs_serve
+    results = task.run()
+              ^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\task\docs\serve.py", line 29, in run
+    httpd.serve_forever()
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 238, in serve_forever
+    self._handle_request_noblock()
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\http\server.py", line 667, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\http\server.py", line 432, in handle
+    self.handle_one_request()
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\http\server.py", line 400, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+[0m00:36:46.402395 [debug] [MainThread]: Command `dbt docs serve` failed at 00:36:46.401607 after 366.04 seconds
+[0m00:36:46.404567 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C16AF890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C164D790>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E1C1317C50>]}
+[0m00:36:46.407667 [debug] [MainThread]: Flushing usage events
+[0m00:36:46.437355 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m00:37:09.552035 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025293B7CAD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002529399B710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025293B7DD10>]}
+
+
+============================== 00:37:09.558793 | 2b30753a-6987-4750-8001-59225513b3ff ==============================
+[0m00:37:09.558793 [info ] [MainThread]: Running with dbt=1.9.2
+[0m00:37:09.562401 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'D:\\week-7\\medical-business-data-scraped-from-telegram-channels-week-7\\my_project\\logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\hanad\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt docs serve', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m00:37:09.949669 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '2b30753a-6987-4750-8001-59225513b3ff', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025293EC6AD0>]}
+[0m00:37:10.066154 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '2b30753a-6987-4750-8001-59225513b3ff', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025290C50D10>]}
+[0m00:40:28.222854 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42DCE190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42CD0350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42E0BD90>]}
+
+
+============================== 00:40:28.228816 | 3f424dae-eeee-4733-9604-04d0475ce257 ==============================
+[0m00:40:28.228816 [info ] [MainThread]: Running with dbt=1.9.2
+[0m00:40:28.228816 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\hanad\\.dbt', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'D:\\week-7\\medical-business-data-scraped-from-telegram-channels-week-7\\my_project\\logs', 'warn_error': 'None', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'invocation_command': 'dbt docs serve', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m00:40:28.374450 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '3f424dae-eeee-4733-9604-04d0475ce257', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42E26F10>]}
+[0m00:40:28.411139 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '3f424dae-eeee-4733-9604-04d0475ce257', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F3FEA13D0>]}
+[0m00:40:28.527707 [error] [MainThread]: Encountered an error:
+[WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+[0m00:40:28.527707 [error] [MainThread]: Traceback (most recent call last):
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 153, in wrapper
+    result, success = func(*args, **kwargs)
+                      ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 103, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 235, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 264, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\requires.py", line 311, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\cli\main.py", line 301, in docs_serve
+    results = task.run()
+              ^^^^^^^^^^
+  File "D:\week-7\medical-business-data-scraped-from-telegram-channels-week-7\.week-7\Lib\site-packages\dbt\task\docs\serve.py", line 24, in run
+    with socketserver.TCPServer((host, port), SimpleHTTPRequestHandler) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 456, in __init__
+    self.server_bind()
+  File "C:\Users\hanad\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 472, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+
+[0m00:40:28.527707 [debug] [MainThread]: Command `dbt docs serve` failed at 00:40:28.527707 after 0.36 seconds
+[0m00:40:28.527707 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42E27C90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42DCD950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028F42BEF390>]}
+[0m00:40:28.527707 [debug] [MainThread]: Flushing usage events
+[0m00:40:29.654905 [debug] [MainThread]: An error was encountered while trying to flush usage events
