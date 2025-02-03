@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: telegram_data
+    schema: raw 
+    tables:
+      - name: all_scraped_messages
+        description: "All messages scraped from Telegram channels"
