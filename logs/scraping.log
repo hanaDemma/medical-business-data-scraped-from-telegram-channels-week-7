@@ -1156,3 +1156,998 @@
 2025-02-04 18:47:30,143:INFO:✅ Emojis processed.
 2025-02-04 18:47:30,144:INFO:✅ YouTube links processed.
 2025-02-04 18:47:30,144:INFO:✅ Data cleaning completed successfully.
+2025-02-04 18:48:10,002:INFO:Processed photo_2025-02-04_18-00-19.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:10,176:INFO:Processed photo_2025-02-04_18-00-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:10,421:INFO:Processed photo_2025-02-04_18-00-20 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:10,683:INFO:Processed photo_2025-02-04_18-00-20 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:10,974:INFO:Processed photo_2025-02-04_18-00-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:11,267:INFO:Processed photo_2025-02-04_18-00-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:11,640:INFO:Processed photo_2025-02-04_18-00-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:11,997:INFO:Processed photo_2025-02-04_18-00-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:12,420:INFO:Processed photo_2025-02-04_18-00-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:12,937:INFO:Processed photo_2025-02-04_18-00-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:13,491:INFO:Processed photo_2025-02-04_18-00-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:14,119:INFO:Processed photo_2025-02-04_18-00-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:14,670:INFO:Processed photo_2025-02-04_18-00-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:15,331:INFO:Processed photo_2025-02-04_18-00-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:15,932:INFO:Processed photo_2025-02-04_18-00-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:16,638:INFO:Processed photo_2025-02-04_18-00-34.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:17,221:INFO:Processed photo_2025-02-04_18-00-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:17,757:INFO:Processed photo_2025-02-04_18-00-39 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:18,354:INFO:Processed photo_2025-02-04_18-00-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:19,094:INFO:Processed photo_2025-02-04_18-09-37 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:19,863:INFO:Processed photo_2025-02-04_18-09-37.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:20,259:INFO:Processed photo_2025-02-04_18-09-38 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:20,599:INFO:Processed photo_2025-02-04_18-09-38 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:20,936:INFO:Processed photo_2025-02-04_18-09-38 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:21,243:INFO:Processed photo_2025-02-04_18-09-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:21,554:INFO:Processed photo_2025-02-04_18-09-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:21,844:INFO:Processed photo_2025-02-04_18-09-40 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:22,154:INFO:Processed photo_2025-02-04_18-09-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:22,499:INFO:Processed photo_2025-02-04_18-09-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:22,851:INFO:Processed photo_2025-02-04_18-09-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:23,156:INFO:Processed photo_2025-02-04_18-09-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:23,653:INFO:Processed photo_2025-02-04_18-09-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:23,989:INFO:Processed photo_2025-02-04_18-09-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:24,354:INFO:Processed photo_2025-02-04_18-09-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:24,675:INFO:Processed photo_2025-02-04_18-09-44 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:24,957:INFO:Processed photo_2025-02-04_18-09-44 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:25,357:INFO:Processed photo_2025-02-04_18-09-44 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:25,803:INFO:Processed photo_2025-02-04_18-09-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:26,256:INFO:Processed photo_2025-02-04_18-13-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:26,646:INFO:Processed photo_2025-02-04_18-13-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:27,070:INFO:Processed photo_2025-02-04_18-13-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:27,493:INFO:Processed photo_2025-02-04_18-13-07 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:27,899:INFO:Processed photo_2025-02-04_18-13-07 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:28,277:INFO:Processed photo_2025-02-04_18-13-07 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:28,715:INFO:Processed photo_2025-02-04_18-13-07 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:29,222:INFO:Processed photo_2025-02-04_18-13-07.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:29,908:INFO:Processed photo_2025-02-04_18-13-08.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:30,385:INFO:Processed photo_2025-02-04_18-13-09 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:30,780:INFO:Processed photo_2025-02-04_18-13-09.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:31,232:INFO:Processed photo_2025-02-04_18-13-10 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:31,737:INFO:Processed photo_2025-02-04_18-13-10 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:32,171:INFO:Processed photo_2025-02-04_18-13-10 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:32,568:INFO:Processed photo_2025-02-04_18-13-10.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:32,940:INFO:Processed photo_2025-02-04_18-13-11 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:33,290:INFO:Processed photo_2025-02-04_18-13-11 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:33,653:INFO:Processed photo_2025-02-04_18-13-11 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:34,038:INFO:Processed photo_2025-02-04_18-13-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:34,356:INFO:Processed photo_2025-02-04_18-25-01 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:34,676:INFO:Processed photo_2025-02-04_18-25-01.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:35,017:INFO:Processed photo_2025-02-04_18-25-02 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:35,405:INFO:Processed photo_2025-02-04_18-25-02 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:35,798:INFO:Processed photo_2025-02-04_18-25-02 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:36,221:INFO:Processed photo_2025-02-04_18-25-02 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:36,633:INFO:Processed photo_2025-02-04_18-25-02 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:36,990:INFO:Processed photo_2025-02-04_18-25-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:37,331:INFO:Processed photo_2025-02-04_18-25-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:37,627:INFO:Processed photo_2025-02-04_18-25-04 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:37,935:INFO:Processed photo_2025-02-04_18-25-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:38,222:INFO:Processed photo_2025-02-04_18-25-05 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:38,609:INFO:Processed photo_2025-02-04_18-25-05 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:38,979:INFO:Processed photo_2025-02-04_18-25-05 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:39,495:INFO:Processed photo_2025-02-04_18-25-05 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:39,992:INFO:Processed photo_2025-02-04_18-25-05.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:40,383:INFO:Processed photo_2025-02-04_18-25-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:40,791:INFO:Processed photo_2025-02-04_18-25-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:41,211:INFO:Processed photo_2025-02-04_18-25-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:41,597:INFO:Processed photo_2025-02-04_18-25-41 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:41,963:INFO:Processed photo_2025-02-04_18-25-41 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:42,308:INFO:Processed photo_2025-02-04_18-25-41.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:42,627:INFO:Processed photo_2025-02-04_18-25-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:42,959:INFO:Processed photo_2025-02-04_18-25-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:43,305:INFO:Processed photo_2025-02-04_18-25-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:43,674:INFO:Processed photo_2025-02-04_18-25-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:44,028:INFO:Processed photo_2025-02-04_18-25-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:44,408:INFO:Processed photo_2025-02-04_18-25-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:44,748:INFO:Processed photo_2025-02-04_18-25-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:45,075:INFO:Processed photo_2025-02-04_18-25-45.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:45,406:INFO:Processed photo_2025-02-04_18-25-46.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:45,755:INFO:Processed photo_2025-02-04_18-25-47.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:46,211:INFO:Processed photo_2025-02-04_18-25-48.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:46,603:INFO:Processed photo_2025-02-04_18-25-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:47,048:INFO:Processed photo_2025-02-04_18-25-57.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:47,416:INFO:Processed photo_2025-02-04_18-26-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:47,769:INFO:Processed photo_2025-02-04_18-26-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:48,166:INFO:Processed photo_2025-02-04_18-26-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:48,542:INFO:Processed photo_2025-02-04_18-33-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:48,862:INFO:Processed photo_2025-02-04_18-33-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:49,201:INFO:Processed photo_2025-02-04_18-33-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:49,550:INFO:Processed photo_2025-02-04_18-33-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:49,886:INFO:Processed photo_2025-02-04_18-33-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:50,201:INFO:Processed photo_2025-02-04_18-33-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:50,526:INFO:Processed photo_2025-02-04_18-33-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:50,820:INFO:Processed photo_2025-02-04_18-33-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:51,129:INFO:Processed photo_2025-02-04_18-33-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:51,404:INFO:Processed photo_2025-02-04_18-33-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:51,702:INFO:Processed photo_2025-02-04_18-33-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:52,014:INFO:Processed photo_2025-02-04_18-33-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:52,426:INFO:Processed photo_2025-02-04_18-33-27 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:52,882:INFO:Processed photo_2025-02-04_18-33-27 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:53,286:INFO:Processed photo_2025-02-04_18-33-27 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:53,598:INFO:Processed photo_2025-02-04_18-33-27 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:53,949:INFO:Processed photo_2025-02-04_18-33-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:54,290:INFO:Processed photo_2025-02-04_18-33-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:54,658:INFO:Processed photo_2025-02-04_18-33-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:55,081:INFO:Processed photo_2025-02-04_18-34-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:55,516:INFO:Processed photo_2025-02-04_18-34-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:55,955:INFO:Processed photo_2025-02-04_18-34-29 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:56,329:INFO:Processed photo_2025-02-04_18-34-29 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:56,687:INFO:Processed photo_2025-02-04_18-34-29 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:57,014:INFO:Processed photo_2025-02-04_18-34-29 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:57,323:INFO:Processed photo_2025-02-04_18-34-29.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:57,631:INFO:Processed photo_2025-02-04_18-34-30 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:57,928:INFO:Processed photo_2025-02-04_18-34-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:58,202:INFO:Processed photo_2025-02-04_18-34-31 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:58,492:INFO:Processed photo_2025-02-04_18-34-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:58,766:INFO:Processed photo_2025-02-04_18-34-32 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:59,102:INFO:Processed photo_2025-02-04_18-34-32 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:59,451:INFO:Processed photo_2025-02-04_18-34-32 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:48:59,772:INFO:Processed photo_2025-02-04_18-34-32.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:00,082:INFO:Processed photo_2025-02-04_18-34-33 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:00,382:INFO:Processed photo_2025-02-04_18-34-33 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:00,699:INFO:Processed photo_2025-02-04_18-34-33 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:01,063:INFO:Processed photo_2025-02-04_18-34-33.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:01,392:INFO:Processed photo_2025-02-04_18-35-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:01,747:INFO:Processed photo_2025-02-04_18-35-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:02,116:INFO:Processed photo_2025-02-04_18-35-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:02,444:INFO:Processed photo_2025-02-04_18-35-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:02,753:INFO:Processed photo_2025-02-04_18-35-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:03,050:INFO:Processed photo_2025-02-04_18-35-21 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:03,374:INFO:Processed photo_2025-02-04_18-35-21 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:03,682:INFO:Processed photo_2025-02-04_18-35-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:04,020:INFO:Processed photo_2025-02-04_18-35-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:04,323:INFO:Processed photo_2025-02-04_18-35-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:04,607:INFO:Processed photo_2025-02-04_18-35-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:04,900:INFO:Processed photo_2025-02-04_18-35-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:05,173:INFO:Processed photo_2025-02-04_18-35-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:05,480:INFO:Processed photo_2025-02-04_18-35-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:05,803:INFO:Processed photo_2025-02-04_18-35-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:06,105:INFO:Processed photo_2025-02-04_18-35-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:06,381:INFO:Processed photo_2025-02-04_18-35-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:06,680:INFO:Processed photo_2025-02-04_18-35-24 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:07,014:INFO:Processed photo_2025-02-04_18-35-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:07,320:INFO:Processed photo_2025-02-04_18-44-55.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:07,619:INFO:Processed photo_2025-02-04_18-44-56.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:07,911:INFO:Processed photo_2025-02-04_18-45-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:08,202:INFO:Processed photo_2025-02-04_18-45-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:08,493:INFO:Processed photo_2025-02-04_18-45-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:08,776:INFO:Processed photo_2025-02-04_18-45-17.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:09,086:INFO:Processed photo_2025-02-04_18-45-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:09,428:INFO:Processed photo_2025-02-04_18-45-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:09,753:INFO:Processed photo_2025-02-04_18-45-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:10,065:INFO:Processed photo_2025-02-04_18-45-49 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:10,397:INFO:Processed photo_2025-02-04_18-45-49 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:10,693:INFO:Processed photo_2025-02-04_18-45-49 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:10,983:INFO:Processed photo_2025-02-04_18-45-49.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:11,282:INFO:Processed photo_2025-02-04_18-45-50 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:11,625:INFO:Processed photo_2025-02-04_18-45-50 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:11,947:INFO:Processed photo_2025-02-04_18-45-50 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:12,211:INFO:Processed photo_2025-02-04_18-45-50 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:12,547:INFO:Processed photo_2025-02-04_18-45-50.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:12,865:INFO:Processed photo_2025-02-04_18-45-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:13,170:INFO:Processed photo_2025-02-04_18-47-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:13,468:INFO:Processed photo_2025-02-04_18-47-22 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:13,780:INFO:Processed photo_2025-02-04_18-47-22 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:14,111:INFO:Processed photo_2025-02-04_18-47-22 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:14,423:INFO:Processed photo_2025-02-04_18-47-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:14,716:INFO:Processed photo_2025-02-04_18-47-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:15,050:INFO:Processed photo_2025-02-04_18-47-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:15,342:INFO:Processed photo_2025-02-04_18-47-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:15,650:INFO:Processed photo_2025-02-04_18-47-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:15,915:INFO:Processed photo_2025-02-04_18-47-25 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:16,231:INFO:Processed photo_2025-02-04_18-47-25 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:16,549:INFO:Processed photo_2025-02-04_18-47-25.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:16,935:INFO:Processed photo_2025-02-04_18-47-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:17,292:INFO:Processed photo_2025-02-04_18-47-26 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:17,693:INFO:Processed photo_2025-02-04_18-47-26 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:18,005:INFO:Processed photo_2025-02-04_18-47-26 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:18,270:INFO:Processed photo_2025-02-04_18-47-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:18,580:INFO:Processed photo_2025-02-04_18-47-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 18:49:18,893:INFO:Processed photo_2025-02-04_18-47-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:32:28,901:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-02-04 20:32:28,908:INFO:cryptg detected, it will be used for encryption
+2025-02-04 20:32:30,873:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:32:30,875:WARNING:Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:31,881:WARNING:Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:32,885:WARNING:Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:33,893:WARNING:Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:34,903:WARNING:Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:35,912:WARNING:Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.91', 443)
+2025-02-04 20:32:36,913:ERROR:An error occurred: Connection to Telegram failed 5 time(s)
+2025-02-04 20:32:37,166:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-02-04 20:32:37,216:INFO:✅ Duplicates removed.
+2025-02-04 20:32:37,230:INFO:✅ Date column formatted.
+2025-02-04 20:32:37,234:INFO:✅ Missing values filled.
+2025-02-04 20:32:37,238:INFO:✅ Text column cleaned.
+2025-02-04 20:32:37,265:INFO:✅ Emojis processed.
+2025-02-04 20:32:37,272:INFO:✅ YouTube links processed.
+2025-02-04 20:32:37,275:INFO:✅ Data cleaning completed successfully.
+2025-02-04 20:33:18,983:INFO:Processed photo_2025-02-04_18-00-19.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:19,897:INFO:Processed photo_2025-02-04_18-00-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:20,754:INFO:Processed photo_2025-02-04_18-00-20 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:21,756:INFO:Processed photo_2025-02-04_18-00-20 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:22,655:INFO:Processed photo_2025-02-04_18-00-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:23,460:INFO:Processed photo_2025-02-04_18-00-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:24,503:INFO:Processed photo_2025-02-04_18-00-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:25,398:INFO:Processed photo_2025-02-04_18-00-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:26,000:INFO:Processed photo_2025-02-04_18-00-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:26,697:INFO:Processed photo_2025-02-04_18-00-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:27,474:INFO:Processed photo_2025-02-04_18-00-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:28,243:INFO:Processed photo_2025-02-04_18-00-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:29,082:INFO:Processed photo_2025-02-04_18-00-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:29,747:INFO:Processed photo_2025-02-04_18-00-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:30,642:INFO:Processed photo_2025-02-04_18-00-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:31,692:INFO:Processed photo_2025-02-04_18-00-34.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:32,457:INFO:Processed photo_2025-02-04_18-00-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:33,345:INFO:Processed photo_2025-02-04_18-00-39 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:33,940:INFO:Processed photo_2025-02-04_18-00-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:34,713:INFO:Processed photo_2025-02-04_18-09-37 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:35,551:INFO:Processed photo_2025-02-04_18-09-37.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:36,191:INFO:Processed photo_2025-02-04_18-09-38 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:37,114:INFO:Processed photo_2025-02-04_18-09-38 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:37,809:INFO:Processed photo_2025-02-04_18-09-38 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:38,724:INFO:Processed photo_2025-02-04_18-09-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:40,016:INFO:Processed photo_2025-02-04_18-09-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:40,774:INFO:Processed photo_2025-02-04_18-09-40 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:41,826:INFO:Processed photo_2025-02-04_18-09-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:43,008:INFO:Processed photo_2025-02-04_18-09-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:43,866:INFO:Processed photo_2025-02-04_18-09-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:44,684:INFO:Processed photo_2025-02-04_18-09-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:45,896:INFO:Processed photo_2025-02-04_18-09-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:46,785:INFO:Processed photo_2025-02-04_18-09-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:47,545:INFO:Processed photo_2025-02-04_18-09-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:48,562:INFO:Processed photo_2025-02-04_18-09-44 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:49,303:INFO:Processed photo_2025-02-04_18-09-44 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:50,304:INFO:Processed photo_2025-02-04_18-09-44 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:51,380:INFO:Processed photo_2025-02-04_18-09-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:52,180:INFO:Processed photo_2025-02-04_18-13-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:53,402:INFO:Processed photo_2025-02-04_18-13-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:54,082:INFO:Processed photo_2025-02-04_18-13-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:55,193:INFO:Processed photo_2025-02-04_18-13-07 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:56,240:INFO:Processed photo_2025-02-04_18-13-07 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:57,336:INFO:Processed photo_2025-02-04_18-13-07 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:57,912:INFO:Processed photo_2025-02-04_18-13-07 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:58,818:INFO:Processed photo_2025-02-04_18-13-07.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:33:59,857:INFO:Processed photo_2025-02-04_18-13-08.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:00,528:INFO:Processed photo_2025-02-04_18-13-09 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:01,437:INFO:Processed photo_2025-02-04_18-13-09.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:01,968:INFO:Processed photo_2025-02-04_18-13-10 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:02,955:INFO:Processed photo_2025-02-04_18-13-10 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:03,854:INFO:Processed photo_2025-02-04_18-13-10 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:04,616:INFO:Processed photo_2025-02-04_18-13-10.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:05,476:INFO:Processed photo_2025-02-04_18-13-11 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:06,084:INFO:Processed photo_2025-02-04_18-13-11 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:06,999:INFO:Processed photo_2025-02-04_18-13-11 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:08,041:INFO:Processed photo_2025-02-04_18-13-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:08,717:INFO:Processed photo_2025-02-04_18-25-01 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:09,797:INFO:Processed photo_2025-02-04_18-25-01.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:10,845:INFO:Processed photo_2025-02-04_18-25-02 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:11,544:INFO:Processed photo_2025-02-04_18-25-02 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:12,493:INFO:Processed photo_2025-02-04_18-25-02 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:13,266:INFO:Processed photo_2025-02-04_18-25-02 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:13,894:INFO:Processed photo_2025-02-04_18-25-02 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:14,834:INFO:Processed photo_2025-02-04_18-25-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:15,623:INFO:Processed photo_2025-02-04_18-25-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:16,413:INFO:Processed photo_2025-02-04_18-25-04 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:17,258:INFO:Processed photo_2025-02-04_18-25-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:17,836:INFO:Processed photo_2025-02-04_18-25-05 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:18,688:INFO:Processed photo_2025-02-04_18-25-05 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:19,348:INFO:Processed photo_2025-02-04_18-25-05 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:20,292:INFO:Processed photo_2025-02-04_18-25-05 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:21,079:INFO:Processed photo_2025-02-04_18-25-05.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:21,890:INFO:Processed photo_2025-02-04_18-25-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:22,783:INFO:Processed photo_2025-02-04_18-25-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:23,426:INFO:Processed photo_2025-02-04_18-25-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:24,305:INFO:Processed photo_2025-02-04_18-25-41 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:24,917:INFO:Processed photo_2025-02-04_18-25-41 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:25,796:INFO:Processed photo_2025-02-04_18-25-41.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:26,481:INFO:Processed photo_2025-02-04_18-25-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:27,316:INFO:Processed photo_2025-02-04_18-25-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:28,066:INFO:Processed photo_2025-02-04_18-25-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:28,812:INFO:Processed photo_2025-02-04_18-25-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:29,769:INFO:Processed photo_2025-02-04_18-25-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:30,374:INFO:Processed photo_2025-02-04_18-25-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:31,212:INFO:Processed photo_2025-02-04_18-25-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:31,902:INFO:Processed photo_2025-02-04_18-25-45.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:32,797:INFO:Processed photo_2025-02-04_18-25-46.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:33,384:INFO:Processed photo_2025-02-04_18-25-47.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:34,347:INFO:Processed photo_2025-02-04_18-25-48.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:35,307:INFO:Processed photo_2025-02-04_18-25-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:36,084:INFO:Processed photo_2025-02-04_18-25-57.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:36,983:INFO:Processed photo_2025-02-04_18-26-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:37,512:INFO:Processed photo_2025-02-04_18-26-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:38,344:INFO:Processed photo_2025-02-04_18-26-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:39,082:INFO:Processed photo_2025-02-04_18-33-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:39,904:INFO:Processed photo_2025-02-04_18-33-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:40,783:INFO:Processed photo_2025-02-04_18-33-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:41,505:INFO:Processed photo_2025-02-04_18-33-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:42,395:INFO:Processed photo_2025-02-04_18-33-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:43,132:INFO:Processed photo_2025-02-04_18-33-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:44,027:INFO:Processed photo_2025-02-04_18-33-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:44,842:INFO:Processed photo_2025-02-04_18-33-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:45,662:INFO:Processed photo_2025-02-04_18-33-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:46,451:INFO:Processed photo_2025-02-04_18-33-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:47,046:INFO:Processed photo_2025-02-04_18-33-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:47,992:INFO:Processed photo_2025-02-04_18-33-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:48,734:INFO:Processed photo_2025-02-04_18-33-27 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:49,739:INFO:Processed photo_2025-02-04_18-33-27 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:50,629:INFO:Processed photo_2025-02-04_18-33-27 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:51,847:INFO:Processed photo_2025-02-04_18-33-27 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:52,635:INFO:Processed photo_2025-02-04_18-33-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:53,646:INFO:Processed photo_2025-02-04_18-33-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:54,596:INFO:Processed photo_2025-02-04_18-33-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:55,189:INFO:Processed photo_2025-02-04_18-34-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:56,234:INFO:Processed photo_2025-02-04_18-34-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:57,187:INFO:Processed photo_2025-02-04_18-34-29 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:57,805:INFO:Processed photo_2025-02-04_18-34-29 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:58,734:INFO:Processed photo_2025-02-04_18-34-29 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:34:59,587:INFO:Processed photo_2025-02-04_18-34-29 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:00,227:INFO:Processed photo_2025-02-04_18-34-29.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:01,149:INFO:Processed photo_2025-02-04_18-34-30 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:02,067:INFO:Processed photo_2025-02-04_18-34-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:02,862:INFO:Processed photo_2025-02-04_18-34-31 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:03,782:INFO:Processed photo_2025-02-04_18-34-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:04,351:INFO:Processed photo_2025-02-04_18-34-32 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:05,347:INFO:Processed photo_2025-02-04_18-34-32 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:06,248:INFO:Processed photo_2025-02-04_18-34-32 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:06,879:INFO:Processed photo_2025-02-04_18-34-32.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:07,851:INFO:Processed photo_2025-02-04_18-34-33 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:08,494:INFO:Processed photo_2025-02-04_18-34-33 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:09,419:INFO:Processed photo_2025-02-04_18-34-33 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:10,386:INFO:Processed photo_2025-02-04_18-34-33.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:11,067:INFO:Processed photo_2025-02-04_18-35-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:12,057:INFO:Processed photo_2025-02-04_18-35-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:12,792:INFO:Processed photo_2025-02-04_18-35-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:13,668:INFO:Processed photo_2025-02-04_18-35-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:14,474:INFO:Processed photo_2025-02-04_18-35-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:15,266:INFO:Processed photo_2025-02-04_18-35-21 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:16,322:INFO:Processed photo_2025-02-04_18-35-21 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:16,985:INFO:Processed photo_2025-02-04_18-35-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:17,846:INFO:Processed photo_2025-02-04_18-35-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:18,386:INFO:Processed photo_2025-02-04_18-35-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:19,302:INFO:Processed photo_2025-02-04_18-35-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:19,869:INFO:Processed photo_2025-02-04_18-35-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:20,728:INFO:Processed photo_2025-02-04_18-35-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:21,420:INFO:Processed photo_2025-02-04_18-35-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:22,334:INFO:Processed photo_2025-02-04_18-35-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:23,145:INFO:Processed photo_2025-02-04_18-35-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:23,714:INFO:Processed photo_2025-02-04_18-35-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:24,556:INFO:Processed photo_2025-02-04_18-35-24 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:25,267:INFO:Processed photo_2025-02-04_18-35-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:26,114:INFO:Processed photo_2025-02-04_18-44-55.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:26,690:INFO:Processed photo_2025-02-04_18-44-56.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:27,586:INFO:Processed photo_2025-02-04_18-45-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:28,237:INFO:Processed photo_2025-02-04_18-45-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:29,047:INFO:Processed photo_2025-02-04_18-45-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:29,664:INFO:Processed photo_2025-02-04_18-45-17.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:30,429:INFO:Processed photo_2025-02-04_18-45-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:31,214:INFO:Processed photo_2025-02-04_18-45-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:31,998:INFO:Processed photo_2025-02-04_18-45-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:32,726:INFO:Processed photo_2025-02-04_18-45-49 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:33,385:INFO:Processed photo_2025-02-04_18-45-49 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:34,193:INFO:Processed photo_2025-02-04_18-45-49 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:34,732:INFO:Processed photo_2025-02-04_18-45-49.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:35,630:INFO:Processed photo_2025-02-04_18-45-50 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:36,333:INFO:Processed photo_2025-02-04_18-45-50 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:37,272:INFO:Processed photo_2025-02-04_18-45-50 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:37,772:INFO:Processed photo_2025-02-04_18-45-50 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:38,630:INFO:Processed photo_2025-02-04_18-45-50.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:39,257:INFO:Processed photo_2025-02-04_18-45-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:40,285:INFO:Processed photo_2025-02-04_18-47-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:40,935:INFO:Processed photo_2025-02-04_18-47-22 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:41,764:INFO:Processed photo_2025-02-04_18-47-22 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:42,388:INFO:Processed photo_2025-02-04_18-47-22 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:43,198:INFO:Processed photo_2025-02-04_18-47-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:43,802:INFO:Processed photo_2025-02-04_18-47-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:44,666:INFO:Processed photo_2025-02-04_18-47-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:45,415:INFO:Processed photo_2025-02-04_18-47-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:46,143:INFO:Processed photo_2025-02-04_18-47-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:46,807:INFO:Processed photo_2025-02-04_18-47-25 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:47,524:INFO:Processed photo_2025-02-04_18-47-25 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:48,268:INFO:Processed photo_2025-02-04_18-47-25.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:48,980:INFO:Processed photo_2025-02-04_18-47-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:49,834:INFO:Processed photo_2025-02-04_18-47-26 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:50,439:INFO:Processed photo_2025-02-04_18-47-26 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:51,239:INFO:Processed photo_2025-02-04_18-47-26 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:51,865:INFO:Processed photo_2025-02-04_18-47-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:52,804:INFO:Processed photo_2025-02-04_18-47-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:35:53,332:INFO:Processed photo_2025-02-04_18-47-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:41:47,977:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-02-04 20:41:47,980:INFO:cryptg detected, it will be used for encryption
+2025-02-04 20:41:48,386:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:41:49,546:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:41:53,473:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-04 20:41:53,473:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:41:53,477:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:41:53,622:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:41:55,474:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:41:58,013:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-41-55.jpg from message_id: 97
+2025-02-04 20:41:58,013:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:01,549:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-41-58.jpg from message_id: 96
+2025-02-04 20:42:01,549:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:04,927:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-01.jpg from message_id: 95
+2025-02-04 20:42:04,927:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:09,494:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-04.jpg from message_id: 94
+2025-02-04 20:42:09,498:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:15,989:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-09.jpg from message_id: 93
+2025-02-04 20:42:15,993:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:22,543:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-15.jpg from message_id: 92
+2025-02-04 20:42:22,543:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:26,437:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-22.jpg from message_id: 91
+2025-02-04 20:42:26,440:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:42:49,487:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-26.jpg from message_id: 90
+2025-02-04 20:42:49,488:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:39,250:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-42-49.jpg from message_id: 88
+2025-02-04 20:43:39,250:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-04 20:43:39,252:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:43:39,265:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:43:42,654:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:43:46,444:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:47,508:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-46.jpg from message_id: 15287
+2025-02-04 20:43:47,509:INFO:Ignored message_id 15286 with less than two lines.
+2025-02-04 20:43:47,510:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:50,151:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-47.jpg from message_id: 15285
+2025-02-04 20:43:50,152:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:53,368:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-50.jpg from message_id: 15284
+2025-02-04 20:43:53,371:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:54,101:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-53.jpg from message_id: 15283
+2025-02-04 20:43:54,102:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:43:59,484:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-54.jpg from message_id: 15282
+2025-02-04 20:43:59,485:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:44:06,152:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-43-59.jpg from message_id: 15281
+2025-02-04 20:44:06,153:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:44:10,456:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-44-06.jpg from message_id: 15280
+2025-02-04 20:44:10,456:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:44:14,077:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-44-10.jpg from message_id: 15279
+2025-02-04 20:44:14,077:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:44:16,120:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-44-14.jpg from message_id: 15278
+2025-02-04 20:44:16,121:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-04 20:44:20,520:INFO:Downloaded image: ../docs/images\photo_2025-02-04_20-44-16.jpg from message_id: 15277
+2025-02-04 20:44:20,522:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-04 20:44:20,522:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:44:20,538:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:44:21,381:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:44:23,390:INFO:Ignored message_id 1248 with less than two lines.
+2025-02-04 20:44:23,390:INFO:Ignored message_id 1247 with less than two lines.
+2025-02-04 20:44:23,391:INFO:Ignored message_id 1246 with less than two lines.
+2025-02-04 20:44:23,391:INFO:Ignored message_id 1244 with less than two lines.
+2025-02-04 20:44:23,392:INFO:Ignored message_id 1238 with less than two lines.
+2025-02-04 20:44:23,392:INFO:Ignored message_id 1237 with less than two lines.
+2025-02-04 20:44:23,392:INFO:Ignored message_id 1236 with less than two lines.
+2025-02-04 20:44:23,392:INFO:Ignored message_id 1232 with less than two lines.
+2025-02-04 20:44:23,393:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-04 20:44:23,393:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:44:23,405:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-04 20:44:23,544:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:44:25,468:INFO:Ignored message_id 2605 with less than two lines.
+2025-02-04 20:44:25,468:INFO:Ignored message_id 2601 with less than two lines.
+2025-02-04 20:44:25,469:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-04 20:44:25,469:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-04 20:44:25,484:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2025-02-04 20:44:25,542:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-02-04 20:44:25,553:INFO:✅ Duplicates removed.
+2025-02-04 20:44:25,558:INFO:✅ Date column formatted.
+2025-02-04 20:44:25,559:INFO:✅ Missing values filled.
+2025-02-04 20:44:25,560:INFO:✅ Text column cleaned.
+2025-02-04 20:44:25,566:INFO:✅ Emojis processed.
+2025-02-04 20:44:25,567:INFO:✅ YouTube links processed.
+2025-02-04 20:44:25,568:INFO:✅ Data cleaning completed successfully.
+2025-02-04 20:44:40,473:INFO:Processed photo_2025-02-04_18-00-19.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:41,145:INFO:Processed photo_2025-02-04_18-00-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:41,726:INFO:Processed photo_2025-02-04_18-00-20 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:42,217:INFO:Processed photo_2025-02-04_18-00-20 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:42,605:INFO:Processed photo_2025-02-04_18-00-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:43,043:INFO:Processed photo_2025-02-04_18-00-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:43,508:INFO:Processed photo_2025-02-04_18-00-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:43,933:INFO:Processed photo_2025-02-04_18-00-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:44,398:INFO:Processed photo_2025-02-04_18-00-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:44,860:INFO:Processed photo_2025-02-04_18-00-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:45,322:INFO:Processed photo_2025-02-04_18-00-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:45,805:INFO:Processed photo_2025-02-04_18-00-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:46,156:INFO:Processed photo_2025-02-04_18-00-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:46,609:INFO:Processed photo_2025-02-04_18-00-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:47,053:INFO:Processed photo_2025-02-04_18-00-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:47,490:INFO:Processed photo_2025-02-04_18-00-34.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:47,893:INFO:Processed photo_2025-02-04_18-00-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:48,375:INFO:Processed photo_2025-02-04_18-00-39 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:48,806:INFO:Processed photo_2025-02-04_18-00-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:49,342:INFO:Processed photo_2025-02-04_18-09-37 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:49,804:INFO:Processed photo_2025-02-04_18-09-37.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:50,170:INFO:Processed photo_2025-02-04_18-09-38 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:50,577:INFO:Processed photo_2025-02-04_18-09-38 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:51,003:INFO:Processed photo_2025-02-04_18-09-38 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:51,454:INFO:Processed photo_2025-02-04_18-09-38.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:51,905:INFO:Processed photo_2025-02-04_18-09-39.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:52,358:INFO:Processed photo_2025-02-04_18-09-40 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:52,805:INFO:Processed photo_2025-02-04_18-09-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:53,267:INFO:Processed photo_2025-02-04_18-09-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:53,752:INFO:Processed photo_2025-02-04_18-09-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:54,142:INFO:Processed photo_2025-02-04_18-09-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:54,580:INFO:Processed photo_2025-02-04_18-09-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:54,962:INFO:Processed photo_2025-02-04_18-09-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:55,409:INFO:Processed photo_2025-02-04_18-09-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:55,816:INFO:Processed photo_2025-02-04_18-09-44 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:56,205:INFO:Processed photo_2025-02-04_18-09-44 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:56,673:INFO:Processed photo_2025-02-04_18-09-44 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:57,201:INFO:Processed photo_2025-02-04_18-09-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:57,664:INFO:Processed photo_2025-02-04_18-13-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:58,054:INFO:Processed photo_2025-02-04_18-13-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:58,484:INFO:Processed photo_2025-02-04_18-13-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:58,941:INFO:Processed photo_2025-02-04_18-13-07 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:59,359:INFO:Processed photo_2025-02-04_18-13-07 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:44:59,784:INFO:Processed photo_2025-02-04_18-13-07 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:00,211:INFO:Processed photo_2025-02-04_18-13-07 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:00,635:INFO:Processed photo_2025-02-04_18-13-07.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:01,103:INFO:Processed photo_2025-02-04_18-13-08.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:01,612:INFO:Processed photo_2025-02-04_18-13-09 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:02,052:INFO:Processed photo_2025-02-04_18-13-09.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:02,500:INFO:Processed photo_2025-02-04_18-13-10 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:03,078:INFO:Processed photo_2025-02-04_18-13-10 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:03,589:INFO:Processed photo_2025-02-04_18-13-10 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:04,043:INFO:Processed photo_2025-02-04_18-13-10.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:04,512:INFO:Processed photo_2025-02-04_18-13-11 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:04,997:INFO:Processed photo_2025-02-04_18-13-11 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:05,498:INFO:Processed photo_2025-02-04_18-13-11 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:06,049:INFO:Processed photo_2025-02-04_18-13-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:06,511:INFO:Processed photo_2025-02-04_18-25-01 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:06,921:INFO:Processed photo_2025-02-04_18-25-01.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:07,355:INFO:Processed photo_2025-02-04_18-25-02 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:07,804:INFO:Processed photo_2025-02-04_18-25-02 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:08,278:INFO:Processed photo_2025-02-04_18-25-02 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:08,768:INFO:Processed photo_2025-02-04_18-25-02 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:09,276:INFO:Processed photo_2025-02-04_18-25-02 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:09,733:INFO:Processed photo_2025-02-04_18-25-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:10,189:INFO:Processed photo_2025-02-04_18-25-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:10,626:INFO:Processed photo_2025-02-04_18-25-04 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:10,999:INFO:Processed photo_2025-02-04_18-25-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:11,400:INFO:Processed photo_2025-02-04_18-25-05 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:11,925:INFO:Processed photo_2025-02-04_18-25-05 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:12,424:INFO:Processed photo_2025-02-04_18-25-05 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:13,000:INFO:Processed photo_2025-02-04_18-25-05 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:13,499:INFO:Processed photo_2025-02-04_18-25-05.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:13,928:INFO:Processed photo_2025-02-04_18-25-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:14,417:INFO:Processed photo_2025-02-04_18-25-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:14,877:INFO:Processed photo_2025-02-04_18-25-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:15,253:INFO:Processed photo_2025-02-04_18-25-41 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:15,699:INFO:Processed photo_2025-02-04_18-25-41 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:16,125:INFO:Processed photo_2025-02-04_18-25-41.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:16,532:INFO:Processed photo_2025-02-04_18-25-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:17,062:INFO:Processed photo_2025-02-04_18-25-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:17,508:INFO:Processed photo_2025-02-04_18-25-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:18,005:INFO:Processed photo_2025-02-04_18-25-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:18,405:INFO:Processed photo_2025-02-04_18-25-42.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:18,825:INFO:Processed photo_2025-02-04_18-25-43.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:19,195:INFO:Processed photo_2025-02-04_18-25-44.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:19,638:INFO:Processed photo_2025-02-04_18-25-45.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:20,099:INFO:Processed photo_2025-02-04_18-25-46.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:20,479:INFO:Processed photo_2025-02-04_18-25-47.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:20,975:INFO:Processed photo_2025-02-04_18-25-48.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:21,443:INFO:Processed photo_2025-02-04_18-25-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:21,975:INFO:Processed photo_2025-02-04_18-25-57.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:22,430:INFO:Processed photo_2025-02-04_18-26-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:22,848:INFO:Processed photo_2025-02-04_18-26-03.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:23,266:INFO:Processed photo_2025-02-04_18-26-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:23,719:INFO:Processed photo_2025-02-04_18-33-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:24,133:INFO:Processed photo_2025-02-04_18-33-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:24,541:INFO:Processed photo_2025-02-04_18-33-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:24,975:INFO:Processed photo_2025-02-04_18-33-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:25,466:INFO:Processed photo_2025-02-04_18-33-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:25,904:INFO:Processed photo_2025-02-04_18-33-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:26,283:INFO:Processed photo_2025-02-04_18-33-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:26,700:INFO:Processed photo_2025-02-04_18-33-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:27,214:INFO:Processed photo_2025-02-04_18-33-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:27,676:INFO:Processed photo_2025-02-04_18-33-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:28,069:INFO:Processed photo_2025-02-04_18-33-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:28,485:INFO:Processed photo_2025-02-04_18-33-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:28,983:INFO:Processed photo_2025-02-04_18-33-27 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:29,453:INFO:Processed photo_2025-02-04_18-33-27 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:29,952:INFO:Processed photo_2025-02-04_18-33-27 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:30,375:INFO:Processed photo_2025-02-04_18-33-27 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:30,756:INFO:Processed photo_2025-02-04_18-33-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:31,149:INFO:Processed photo_2025-02-04_18-33-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:31,603:INFO:Processed photo_2025-02-04_18-33-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:32,116:INFO:Processed photo_2025-02-04_18-34-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:32,593:INFO:Processed photo_2025-02-04_18-34-28.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:33,117:INFO:Processed photo_2025-02-04_18-34-29 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:33,606:INFO:Processed photo_2025-02-04_18-34-29 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:34,100:INFO:Processed photo_2025-02-04_18-34-29 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:34,573:INFO:Processed photo_2025-02-04_18-34-29 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:35,010:INFO:Processed photo_2025-02-04_18-34-29.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:35,391:INFO:Processed photo_2025-02-04_18-34-30 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:35,804:INFO:Processed photo_2025-02-04_18-34-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:36,281:INFO:Processed photo_2025-02-04_18-34-31 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:36,724:INFO:Processed photo_2025-02-04_18-34-31.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:37,209:INFO:Processed photo_2025-02-04_18-34-32 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:37,749:INFO:Processed photo_2025-02-04_18-34-32 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:38,246:INFO:Processed photo_2025-02-04_18-34-32 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:38,703:INFO:Processed photo_2025-02-04_18-34-32.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:39,101:INFO:Processed photo_2025-02-04_18-34-33 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:39,461:INFO:Processed photo_2025-02-04_18-34-33 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:39,905:INFO:Processed photo_2025-02-04_18-34-33 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:40,376:INFO:Processed photo_2025-02-04_18-34-33.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:40,841:INFO:Processed photo_2025-02-04_18-35-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:41,329:INFO:Processed photo_2025-02-04_18-35-20.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:41,838:INFO:Processed photo_2025-02-04_18-35-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:42,357:INFO:Processed photo_2025-02-04_18-35-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:42,783:INFO:Processed photo_2025-02-04_18-35-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:43,233:INFO:Processed photo_2025-02-04_18-35-21 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:43,723:INFO:Processed photo_2025-02-04_18-35-21 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:44,157:INFO:Processed photo_2025-02-04_18-35-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:44,638:INFO:Processed photo_2025-02-04_18-35-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:45,223:INFO:Processed photo_2025-02-04_18-35-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:45,862:INFO:Processed photo_2025-02-04_18-35-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:46,338:INFO:Processed photo_2025-02-04_18-35-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:46,830:INFO:Processed photo_2025-02-04_18-35-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:47,296:INFO:Processed photo_2025-02-04_18-35-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:47,720:INFO:Processed photo_2025-02-04_18-35-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:48,143:INFO:Processed photo_2025-02-04_18-35-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:48,548:INFO:Processed photo_2025-02-04_18-35-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:49,044:INFO:Processed photo_2025-02-04_18-35-24 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:49,616:INFO:Processed photo_2025-02-04_18-35-24.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:50,056:INFO:Processed photo_2025-02-04_18-44-55.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:50,483:INFO:Processed photo_2025-02-04_18-44-56.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:50,886:INFO:Processed photo_2025-02-04_18-45-02.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:51,301:INFO:Processed photo_2025-02-04_18-45-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:51,775:INFO:Processed photo_2025-02-04_18-45-11.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:52,268:INFO:Processed photo_2025-02-04_18-45-17.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:52,728:INFO:Processed photo_2025-02-04_18-45-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:53,248:INFO:Processed photo_2025-02-04_18-45-30.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:53,760:INFO:Processed photo_2025-02-04_18-45-40.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:54,241:INFO:Processed photo_2025-02-04_18-45-49 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:54,638:INFO:Processed photo_2025-02-04_18-45-49 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:55,054:INFO:Processed photo_2025-02-04_18-45-49 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:55,477:INFO:Processed photo_2025-02-04_18-45-49.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:55,913:INFO:Processed photo_2025-02-04_18-45-50 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:56,371:INFO:Processed photo_2025-02-04_18-45-50 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:56,826:INFO:Processed photo_2025-02-04_18-45-50 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:57,340:INFO:Processed photo_2025-02-04_18-45-50 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:57,907:INFO:Processed photo_2025-02-04_18-45-50.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:58,372:INFO:Processed photo_2025-02-04_18-45-51.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:58,773:INFO:Processed photo_2025-02-04_18-47-21.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:59,217:INFO:Processed photo_2025-02-04_18-47-22 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:45:59,656:INFO:Processed photo_2025-02-04_18-47-22 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:00,102:INFO:Processed photo_2025-02-04_18-47-22 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:00,574:INFO:Processed photo_2025-02-04_18-47-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:01,025:INFO:Processed photo_2025-02-04_18-47-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:01,608:INFO:Processed photo_2025-02-04_18-47-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:02,101:INFO:Processed photo_2025-02-04_18-47-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:02,739:INFO:Processed photo_2025-02-04_18-47-23.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:03,315:INFO:Processed photo_2025-02-04_18-47-25 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:03,965:INFO:Processed photo_2025-02-04_18-47-25 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:04,503:INFO:Processed photo_2025-02-04_18-47-25.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:05,136:INFO:Processed photo_2025-02-04_18-47-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:05,922:INFO:Processed photo_2025-02-04_18-47-26 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:06,617:INFO:Processed photo_2025-02-04_18-47-26 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:07,103:INFO:Processed photo_2025-02-04_18-47-26 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:07,623:INFO:Processed photo_2025-02-04_18-47-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:08,276:INFO:Processed photo_2025-02-04_18-47-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:08,823:INFO:Processed photo_2025-02-04_18-47-27.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:09,452:INFO:Processed photo_2025-02-04_20-41-55.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:10,022:INFO:Processed photo_2025-02-04_20-41-58.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:10,531:INFO:Processed photo_2025-02-04_20-42-01.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:11,134:INFO:Processed photo_2025-02-04_20-42-04.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:11,795:INFO:Processed photo_2025-02-04_20-42-09.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:12,484:INFO:Processed photo_2025-02-04_20-42-15.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:13,112:INFO:Processed photo_2025-02-04_20-42-22.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:13,768:INFO:Processed photo_2025-02-04_20-42-26.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:14,368:INFO:Processed photo_2025-02-04_20-42-49.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:14,904:INFO:Processed photo_2025-02-04_20-43-46.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:15,450:INFO:Processed photo_2025-02-04_20-43-47.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:16,012:INFO:Processed photo_2025-02-04_20-43-50.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:16,607:INFO:Processed photo_2025-02-04_20-43-53.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:17,293:INFO:Processed photo_2025-02-04_20-43-54.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:17,995:INFO:Processed photo_2025-02-04_20-43-59.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:18,656:INFO:Processed photo_2025-02-04_20-44-06.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:19,243:INFO:Processed photo_2025-02-04_20-44-10.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:19,862:INFO:Processed photo_2025-02-04_20-44-14.jpg and saved results to ../docs/yolo_output/
+2025-02-04 20:46:20,461:INFO:Processed photo_2025-02-04_20-44-16.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:01,635:INFO:Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-02-05 00:12:01,670:INFO:cryptg detected, it will be used for encryption
+2025-02-05 00:12:02,165:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:02,297:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:03,812:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:03,813:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:03,825:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:03,947:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:05,337:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:05,642:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-05.jpg from message_id: 97
+2025-02-05 00:12:05,642:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:06,147:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-05 (1).jpg from message_id: 96
+2025-02-05 00:12:06,151:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:06,392:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-06.jpg from message_id: 95
+2025-02-05 00:12:06,394:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:06,623:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-06 (1).jpg from message_id: 94
+2025-02-05 00:12:06,628:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:07,077:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-06 (2).jpg from message_id: 93
+2025-02-05 00:12:07,077:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:07,468:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-07.jpg from message_id: 92
+2025-02-05 00:12:07,469:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:07,653:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-07 (1).jpg from message_id: 91
+2025-02-05 00:12:07,653:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:08,183:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-07 (2).jpg from message_id: 90
+2025-02-05 00:12:08,198:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:08,592:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-08.jpg from message_id: 88
+2025-02-05 00:12:08,592:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:08,592:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:08,608:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:08,738:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:10,247:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:10,561:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-10.jpg from message_id: 15287
+2025-02-05 00:12:10,561:INFO:Ignored message_id 15286 with less than two lines.
+2025-02-05 00:12:10,562:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:10,896:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-10 (1).jpg from message_id: 15285
+2025-02-05 00:12:10,896:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:11,206:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-10 (2).jpg from message_id: 15284
+2025-02-05 00:12:11,209:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:11,441:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-11.jpg from message_id: 15283
+2025-02-05 00:12:11,442:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:12,016:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-11 (1).jpg from message_id: 15282
+2025-02-05 00:12:12,018:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:12,419:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-12.jpg from message_id: 15281
+2025-02-05 00:12:12,420:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:12,938:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-12 (1).jpg from message_id: 15280
+2025-02-05 00:12:12,939:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:13,199:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-12 (2).jpg from message_id: 15279
+2025-02-05 00:12:13,200:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:13,417:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-13.jpg from message_id: 15278
+2025-02-05 00:12:13,419:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-02-05 00:12:13,920:INFO:Downloaded image: ../docs/images\photo_2025-02-05_00-12-13 (1).jpg from message_id: 15277
+2025-02-05 00:12:13,922:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:13,923:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:13,937:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:14,079:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1248 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1247 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1246 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1244 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1238 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1237 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1236 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Ignored message_id 1232 with less than two lines.
+2025-02-05 00:12:15,481:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:15,481:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:15,497:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:15,639:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:17,223:INFO:Ignored message_id 2605 with less than two lines.
+2025-02-05 00:12:17,223:INFO:Ignored message_id 2601 with less than two lines.
+2025-02-05 00:12:17,223:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2025-02-05 00:12:17,223:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-02-05 00:12:17,246:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2025-02-05 00:12:17,356:INFO:✅ CSV file '../docs/raw/all_scraped_messages.csv' loaded successfully.
+2025-02-05 00:12:17,374:INFO:✅ Duplicates removed.
+2025-02-05 00:12:17,379:INFO:✅ Date column formatted.
+2025-02-05 00:12:17,381:INFO:✅ Missing values filled.
+2025-02-05 00:12:17,381:INFO:✅ Text column cleaned.
+2025-02-05 00:12:17,390:INFO:✅ Emojis processed.
+2025-02-05 00:12:17,393:INFO:✅ YouTube links processed.
+2025-02-05 00:12:17,393:INFO:✅ Data cleaning completed successfully.
+2025-02-05 00:12:46,623:INFO:Processed photo_2025-02-04_18-00-19.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:46,867:INFO:Processed photo_2025-02-04_18-00-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:47,107:INFO:Processed photo_2025-02-04_18-00-20 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:47,379:INFO:Processed photo_2025-02-04_18-00-20 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:47,674:INFO:Processed photo_2025-02-04_18-00-20.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:47,984:INFO:Processed photo_2025-02-04_18-00-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:48,331:INFO:Processed photo_2025-02-04_18-00-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:48,692:INFO:Processed photo_2025-02-04_18-00-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:49,106:INFO:Processed photo_2025-02-04_18-00-21.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:49,453:INFO:Processed photo_2025-02-04_18-00-23.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:49,849:INFO:Processed photo_2025-02-04_18-00-24.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:50,271:INFO:Processed photo_2025-02-04_18-00-26.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:50,660:INFO:Processed photo_2025-02-04_18-00-27.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:51,095:INFO:Processed photo_2025-02-04_18-00-28.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:51,495:INFO:Processed photo_2025-02-04_18-00-31.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:51,891:INFO:Processed photo_2025-02-04_18-00-34.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:52,217:INFO:Processed photo_2025-02-04_18-00-38.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:52,643:INFO:Processed photo_2025-02-04_18-00-39 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:53,006:INFO:Processed photo_2025-02-04_18-00-39.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:53,483:INFO:Processed photo_2025-02-04_18-09-37 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:53,961:INFO:Processed photo_2025-02-04_18-09-37.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:54,397:INFO:Processed photo_2025-02-04_18-09-38 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:54,821:INFO:Processed photo_2025-02-04_18-09-38 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:55,240:INFO:Processed photo_2025-02-04_18-09-38 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:55,621:INFO:Processed photo_2025-02-04_18-09-38.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:55,997:INFO:Processed photo_2025-02-04_18-09-39.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:56,313:INFO:Processed photo_2025-02-04_18-09-40 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:56,621:INFO:Processed photo_2025-02-04_18-09-40.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:57,012:INFO:Processed photo_2025-02-04_18-09-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:57,419:INFO:Processed photo_2025-02-04_18-09-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:57,770:INFO:Processed photo_2025-02-04_18-09-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:58,160:INFO:Processed photo_2025-02-04_18-09-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:58,480:INFO:Processed photo_2025-02-04_18-09-42.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:58,842:INFO:Processed photo_2025-02-04_18-09-43.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:59,178:INFO:Processed photo_2025-02-04_18-09-44 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:59,488:INFO:Processed photo_2025-02-04_18-09-44 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:12:59,889:INFO:Processed photo_2025-02-04_18-09-44 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:00,332:INFO:Processed photo_2025-02-04_18-09-44.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:00,720:INFO:Processed photo_2025-02-04_18-13-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:01,076:INFO:Processed photo_2025-02-04_18-13-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:01,551:INFO:Processed photo_2025-02-04_18-13-06.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:01,992:INFO:Processed photo_2025-02-04_18-13-07 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:02,393:INFO:Processed photo_2025-02-04_18-13-07 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:02,774:INFO:Processed photo_2025-02-04_18-13-07 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:03,167:INFO:Processed photo_2025-02-04_18-13-07 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:03,536:INFO:Processed photo_2025-02-04_18-13-07.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:03,888:INFO:Processed photo_2025-02-04_18-13-08.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:04,254:INFO:Processed photo_2025-02-04_18-13-09 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:04,597:INFO:Processed photo_2025-02-04_18-13-09.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:04,913:INFO:Processed photo_2025-02-04_18-13-10 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:05,360:INFO:Processed photo_2025-02-04_18-13-10 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:05,806:INFO:Processed photo_2025-02-04_18-13-10 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:06,194:INFO:Processed photo_2025-02-04_18-13-10.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:06,598:INFO:Processed photo_2025-02-04_18-13-11 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:07,048:INFO:Processed photo_2025-02-04_18-13-11 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:07,619:INFO:Processed photo_2025-02-04_18-13-11 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:08,354:INFO:Processed photo_2025-02-04_18-13-11.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:09,075:INFO:Processed photo_2025-02-04_18-25-01 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:09,664:INFO:Processed photo_2025-02-04_18-25-01.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:10,473:INFO:Processed photo_2025-02-04_18-25-02 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:11,053:INFO:Processed photo_2025-02-04_18-25-02 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:11,586:INFO:Processed photo_2025-02-04_18-25-02 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:12,044:INFO:Processed photo_2025-02-04_18-25-02 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:12,470:INFO:Processed photo_2025-02-04_18-25-02 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:12,877:INFO:Processed photo_2025-02-04_18-25-02.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:13,268:INFO:Processed photo_2025-02-04_18-25-03.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:13,658:INFO:Processed photo_2025-02-04_18-25-04 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:14,046:INFO:Processed photo_2025-02-04_18-25-04.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:14,442:INFO:Processed photo_2025-02-04_18-25-05 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:14,884:INFO:Processed photo_2025-02-04_18-25-05 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:15,350:INFO:Processed photo_2025-02-04_18-25-05 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:15,793:INFO:Processed photo_2025-02-04_18-25-05 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:16,204:INFO:Processed photo_2025-02-04_18-25-05.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:16,525:INFO:Processed photo_2025-02-04_18-25-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:16,877:INFO:Processed photo_2025-02-04_18-25-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:17,193:INFO:Processed photo_2025-02-04_18-25-06.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:17,536:INFO:Processed photo_2025-02-04_18-25-41 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:17,886:INFO:Processed photo_2025-02-04_18-25-41 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:18,206:INFO:Processed photo_2025-02-04_18-25-41.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:18,576:INFO:Processed photo_2025-02-04_18-25-42 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:18,927:INFO:Processed photo_2025-02-04_18-25-42 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:19,267:INFO:Processed photo_2025-02-04_18-25-42 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:19,602:INFO:Processed photo_2025-02-04_18-25-42 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:19,924:INFO:Processed photo_2025-02-04_18-25-42.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:20,232:INFO:Processed photo_2025-02-04_18-25-43.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:20,536:INFO:Processed photo_2025-02-04_18-25-44.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:20,853:INFO:Processed photo_2025-02-04_18-25-45.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:21,152:INFO:Processed photo_2025-02-04_18-25-46.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:21,479:INFO:Processed photo_2025-02-04_18-25-47.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:21,815:INFO:Processed photo_2025-02-04_18-25-48.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:22,131:INFO:Processed photo_2025-02-04_18-25-51.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:22,469:INFO:Processed photo_2025-02-04_18-25-57.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:22,780:INFO:Processed photo_2025-02-04_18-26-02.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:23,045:INFO:Processed photo_2025-02-04_18-26-03.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:23,340:INFO:Processed photo_2025-02-04_18-26-04.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:23,649:INFO:Processed photo_2025-02-04_18-33-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:23,965:INFO:Processed photo_2025-02-04_18-33-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:24,242:INFO:Processed photo_2025-02-04_18-33-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:24,544:INFO:Processed photo_2025-02-04_18-33-23.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:24,845:INFO:Processed photo_2025-02-04_18-33-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:25,200:INFO:Processed photo_2025-02-04_18-33-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:25,497:INFO:Processed photo_2025-02-04_18-33-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:25,828:INFO:Processed photo_2025-02-04_18-33-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:26,161:INFO:Processed photo_2025-02-04_18-33-24.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:26,457:INFO:Processed photo_2025-02-04_18-33-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:26,750:INFO:Processed photo_2025-02-04_18-33-26.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:27,040:INFO:Processed photo_2025-02-04_18-33-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:27,374:INFO:Processed photo_2025-02-04_18-33-27 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:27,722:INFO:Processed photo_2025-02-04_18-33-27 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:28,068:INFO:Processed photo_2025-02-04_18-33-27 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:28,361:INFO:Processed photo_2025-02-04_18-33-27 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:28,706:INFO:Processed photo_2025-02-04_18-33-27.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:29,037:INFO:Processed photo_2025-02-04_18-33-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:29,340:INFO:Processed photo_2025-02-04_18-33-28.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:29,635:INFO:Processed photo_2025-02-04_18-34-28 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:29,947:INFO:Processed photo_2025-02-04_18-34-28.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:30,274:INFO:Processed photo_2025-02-04_18-34-29 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:30,623:INFO:Processed photo_2025-02-04_18-34-29 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:31,018:INFO:Processed photo_2025-02-04_18-34-29 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:31,360:INFO:Processed photo_2025-02-04_18-34-29 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:31,707:INFO:Processed photo_2025-02-04_18-34-29.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:32,054:INFO:Processed photo_2025-02-04_18-34-30 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:32,419:INFO:Processed photo_2025-02-04_18-34-30.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:32,737:INFO:Processed photo_2025-02-04_18-34-31 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:33,063:INFO:Processed photo_2025-02-04_18-34-31.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:33,382:INFO:Processed photo_2025-02-04_18-34-32 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:33,825:INFO:Processed photo_2025-02-04_18-34-32 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:34,155:INFO:Processed photo_2025-02-04_18-34-32 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:34,497:INFO:Processed photo_2025-02-04_18-34-32.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:34,858:INFO:Processed photo_2025-02-04_18-34-33 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:35,142:INFO:Processed photo_2025-02-04_18-34-33 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:35,443:INFO:Processed photo_2025-02-04_18-34-33 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:35,769:INFO:Processed photo_2025-02-04_18-34-33.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:36,061:INFO:Processed photo_2025-02-04_18-35-20 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:36,375:INFO:Processed photo_2025-02-04_18-35-20.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:36,679:INFO:Processed photo_2025-02-04_18-35-21 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:36,971:INFO:Processed photo_2025-02-04_18-35-21 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:37,322:INFO:Processed photo_2025-02-04_18-35-21 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:37,631:INFO:Processed photo_2025-02-04_18-35-21 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:38,003:INFO:Processed photo_2025-02-04_18-35-21 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:38,373:INFO:Processed photo_2025-02-04_18-35-21.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:38,728:INFO:Processed photo_2025-02-04_18-35-22.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:39,064:INFO:Processed photo_2025-02-04_18-35-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:39,417:INFO:Processed photo_2025-02-04_18-35-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:39,766:INFO:Processed photo_2025-02-04_18-35-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:40,136:INFO:Processed photo_2025-02-04_18-35-23.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:40,547:INFO:Processed photo_2025-02-04_18-35-24 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:40,978:INFO:Processed photo_2025-02-04_18-35-24 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:41,427:INFO:Processed photo_2025-02-04_18-35-24 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:41,823:INFO:Processed photo_2025-02-04_18-35-24 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:42,255:INFO:Processed photo_2025-02-04_18-35-24 (5).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:42,668:INFO:Processed photo_2025-02-04_18-35-24.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:43,077:INFO:Processed photo_2025-02-04_18-44-55.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:43,671:INFO:Processed photo_2025-02-04_18-44-56.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:44,210:INFO:Processed photo_2025-02-04_18-45-02.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:44,854:INFO:Processed photo_2025-02-04_18-45-06.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:45,419:INFO:Processed photo_2025-02-04_18-45-11.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:46,035:INFO:Processed photo_2025-02-04_18-45-17.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:46,869:INFO:Processed photo_2025-02-04_18-45-26.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:47,566:INFO:Processed photo_2025-02-04_18-45-30.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:48,161:INFO:Processed photo_2025-02-04_18-45-40.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:48,712:INFO:Processed photo_2025-02-04_18-45-49 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:49,082:INFO:Processed photo_2025-02-04_18-45-49 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:49,403:INFO:Processed photo_2025-02-04_18-45-49 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:49,822:INFO:Processed photo_2025-02-04_18-45-49.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:50,497:INFO:Processed photo_2025-02-04_18-45-50 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:51,114:INFO:Processed photo_2025-02-04_18-45-50 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:51,615:INFO:Processed photo_2025-02-04_18-45-50 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:52,076:INFO:Processed photo_2025-02-04_18-45-50 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:52,679:INFO:Processed photo_2025-02-04_18-45-50.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:53,219:INFO:Processed photo_2025-02-04_18-45-51.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:53,759:INFO:Processed photo_2025-02-04_18-47-21.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:54,359:INFO:Processed photo_2025-02-04_18-47-22 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:54,986:INFO:Processed photo_2025-02-04_18-47-22 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:55,628:INFO:Processed photo_2025-02-04_18-47-22 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:56,283:INFO:Processed photo_2025-02-04_18-47-22.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:56,917:INFO:Processed photo_2025-02-04_18-47-23 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:57,493:INFO:Processed photo_2025-02-04_18-47-23 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:58,151:INFO:Processed photo_2025-02-04_18-47-23 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:58,766:INFO:Processed photo_2025-02-04_18-47-23.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:13:59,364:INFO:Processed photo_2025-02-04_18-47-25 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:00,036:INFO:Processed photo_2025-02-04_18-47-25 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:00,769:INFO:Processed photo_2025-02-04_18-47-25.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:01,449:INFO:Processed photo_2025-02-04_18-47-26 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:02,240:INFO:Processed photo_2025-02-04_18-47-26 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:02,885:INFO:Processed photo_2025-02-04_18-47-26 (3).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:03,422:INFO:Processed photo_2025-02-04_18-47-26 (4).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:04,050:INFO:Processed photo_2025-02-04_18-47-26.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:04,711:INFO:Processed photo_2025-02-04_18-47-27 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:05,278:INFO:Processed photo_2025-02-04_18-47-27.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:05,817:INFO:Processed photo_2025-02-04_20-41-55.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:06,303:INFO:Processed photo_2025-02-04_20-41-58.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:06,787:INFO:Processed photo_2025-02-04_20-42-01.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:07,250:INFO:Processed photo_2025-02-04_20-42-04.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:07,679:INFO:Processed photo_2025-02-04_20-42-09.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:08,108:INFO:Processed photo_2025-02-04_20-42-15.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:08,548:INFO:Processed photo_2025-02-04_20-42-22.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:08,973:INFO:Processed photo_2025-02-04_20-42-26.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:09,445:INFO:Processed photo_2025-02-04_20-42-49.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:09,946:INFO:Processed photo_2025-02-04_20-43-46.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:10,606:INFO:Processed photo_2025-02-04_20-43-47.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:11,338:INFO:Processed photo_2025-02-04_20-43-50.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:11,915:INFO:Processed photo_2025-02-04_20-43-53.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:12,586:INFO:Processed photo_2025-02-04_20-43-54.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:13,161:INFO:Processed photo_2025-02-04_20-43-59.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:13,773:INFO:Processed photo_2025-02-04_20-44-06.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:14,305:INFO:Processed photo_2025-02-04_20-44-10.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:14,828:INFO:Processed photo_2025-02-04_20-44-14.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:15,400:INFO:Processed photo_2025-02-04_20-44-16.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:16,003:INFO:Processed photo_2025-02-05_00-12-05 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:16,481:INFO:Processed photo_2025-02-05_00-12-05.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:16,918:INFO:Processed photo_2025-02-05_00-12-06 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:17,335:INFO:Processed photo_2025-02-05_00-12-06 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:17,754:INFO:Processed photo_2025-02-05_00-12-06.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:18,156:INFO:Processed photo_2025-02-05_00-12-07 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:18,563:INFO:Processed photo_2025-02-05_00-12-07 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:19,039:INFO:Processed photo_2025-02-05_00-12-07.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:19,594:INFO:Processed photo_2025-02-05_00-12-08.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:20,181:INFO:Processed photo_2025-02-05_00-12-10 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:20,755:INFO:Processed photo_2025-02-05_00-12-10 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:21,201:INFO:Processed photo_2025-02-05_00-12-10.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:21,682:INFO:Processed photo_2025-02-05_00-12-11 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:22,132:INFO:Processed photo_2025-02-05_00-12-11.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:22,761:INFO:Processed photo_2025-02-05_00-12-12 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:23,314:INFO:Processed photo_2025-02-05_00-12-12 (2).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:24,002:INFO:Processed photo_2025-02-05_00-12-12.jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:24,489:INFO:Processed photo_2025-02-05_00-12-13 (1).jpg and saved results to ../docs/yolo_output/
+2025-02-05 00:14:24,886:INFO:Processed photo_2025-02-05_00-12-13.jpg and saved results to ../docs/yolo_output/
