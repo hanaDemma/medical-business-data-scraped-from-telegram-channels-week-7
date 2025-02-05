@@ -1,5 +1,5 @@
 .week7/
-.env/
+.env
 notebooks/session_name.session/
 notebooks/runs/
 docs/images/
