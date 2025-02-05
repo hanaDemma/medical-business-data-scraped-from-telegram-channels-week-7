@@ -1,4 +1,5 @@
-.week-7/
-# .env
-notebooks/session_name.session
+.week7/
+.env/
+notebooks/session_name.session/
+notebooks/runs/
 docs/images/
